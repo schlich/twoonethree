@@ -9,7 +9,7 @@ import geopandas as gpd
 from django_plotly_dash import DjangoDash
 
 # from .urls import app_name
-data = pd.read_csv('twoonethree/static/csv/2019.csv')
+data = pd.DataFrame()
 mec = DjangoDash('MEC')
 
 mec.layout = html.Div([
