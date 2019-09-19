@@ -280,7 +280,7 @@ pip-selfcheck.json
 ### Project template
 
 twoonethree/media/
-
+twoonethree/static/csv
 .pytest_cache/
 
 

@@ -1,1 +1,153 @@
 {% extends "base.html" %}
+{% load static %}
+{% block header %}
+<header>
+	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+		</ol>
+		<div class="carousel-inner" role="listbox">
+			<!-- Slide One - Set the background image for this slide in the line below -->
+			<div class="carousel-item active" style="background-image:url({% static 'images/brittney-butler-498222-unsplash.jpg' %})">
+				<div class="carousel-caption d-none d-md-block">
+				<h3>St Louis-Based</h3>
+				<p>On the ground in Missouri to work with you and your team</p>
+				</div>
+			</div>
+			<!-- Slide Two - Set the background image for this slide in the line below -->
+			<div class="carousel-item" style="background-image: url({% static 'images/us_house_districts_mo.png' %})">
+				<div class="carousel-caption d-none d-md-block">
+				<h3>Your Own Research Team</h3>
+				<p>Highly-skilled experts at your fingertips to get your questions answered</p>
+				</div>
+			</div>
+			<!-- Slide Three - Set the background image for this slide in the line below -->
+			<div class="carousel-item" style="background-image: url({% static 'images/working_stock_photo.jpeg' %})">
+				<div class="carousel-caption d-none d-md-block">
+				<h3>Experience Matters</h3>
+				<p>We’ve got it. Click to find out more.</p>
+				</div>
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+		</a>
+	</div>
+</header>
+{% endblock header %}
+
+{% block content %}
+<h1 class="my-4">Welcome to 213 Group</h1>
+<div class="row">
+	<div class="col-lg-4 mb-4">
+	<div class="card h-100">
+		<h4 class="card-header">About Us</h4>
+		<div class="card-body">
+		<p class="card-text">We are a data-driven consulting firm specializing in research, data, analytics, and strategy. Our focus is on political campaigns and organizations, but we work with apolitical nonprofits as well. Our team has experience in campaign management, data science, data visualization, and software development, bringing years of industry experience and PhD-level training. Click through to to learn more about us, including where we got our name!</p>
+		</div>
+		<div class="card-footer">
+		<a href="#" class="btn btn-secondary">Learn More</a>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 mb-4">
+	<div class="card h-100">
+		<h4 class="card-header">Services</h4>
+		<div class="card-body">
+		<p class="card-text">Whether your team needs a path-to-victory analysis at the start of your campaign, a custom map to highlight your services across the region, or something just right for you, reach out and let us know. You can find our full list of services by clicking the link below, including fillable forms for some of our more recurring services</p>
+		</div>
+		<div class="card-footer">
+		<a href="#" class="btn btn-secondary">Learn More</a>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 mb-4">
+	<div class="card h-100">
+		<h4 class="card-header">Contact Us</h4>
+		<div class="card-body">
+		<p class="card-text">Have a question for our team or want to get started working with us on that big project you’ve been dreaming of? Not sure where to start with the data you have? Click the link below and get in touch with your very own research team!</p>
+		</div>
+		<div class="card-footer">
+		<a href="#" class="btn btn-secondary">Learn More</a>
+		</div>
+	</div>
+	</div>
+</div>	
+<h2 class="my-4">Our Work:</h2>
+
+<div class="row">
+	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<div class="card h-100">
+		<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+		<div class="card-body">
+		<h4 class="card-title">
+			<a class="orange-link" href="#">The Competitive Edge of Strategic Analyses</a>
+		</h4>
+		<p class="card-text">If you’re a political campaign, you want to win. If you’re a non-profit looking to spend your resources wisely, the decision you make could be game-changing for your organization. Naturally, these are the decisions we can help the most with. From path-to-victory analyses driven by the numbers, to custom marginal analysis about where to spend your resources, to a model forecasting various scenarios given your variables, our team is poised to help you take the cake.</p>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<div class="card h-100">
+		<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+		<div class="card-body">
+		<h4 class="card-title">
+			<a class="orange-link" href="#">Data-Driven Fundraising</a>
+		</h4>
+		<p class="card-text">Our team has custom-built a flexible fundraising database that allows you to target political donors in innovative ways. Want to target <$20 donors to build your grassroots fundraising base? How about donors to both Alexandria Ocasio-Cortez and your state representative? Our team has you covered giving you the edge over your competitor.</p>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<div class="card h-100">
+		<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+		<div class="card-body">
+		<h4 class="card-title">
+			<a class="orange-link" href="#">Data Management</a>
+		</h4>
+		<p class="card-text">Are your Excel spreadsheets starting to spiral out of control? Having trouble working with VoteBuilder/NGP VAN? We’ve got you covered. In order to make strategic decisions, you need to manage your data in efficient ways. Let us help you by providing organizational assistance with your VAN account.  For your own data, we can host it on our customizable, secure SQL database and make it available at your fingertips in ways you never thought possible.</p>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<div class="card h-100">
+		<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+		<div class="card-body">
+		<h4 class="card-title">
+			<a class="orange-link" href="#">Custom Reports and Mapping</a>
+		</h4>
+		<p class="card-text">You need to understand your district and the people you serve to be successful. Our teams can produce the analysis and develop the reports that give you the information you need to achieve your goals. From a prospectus to a district snapshot, we have you covered. We use cutting edge tools and years of expertise to explore everything from census data to voting patterns to consumer trends and more!</p>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<div class="card h-100">
+		<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+		<div class="card-body">
+		<h4 class="card-title">
+			<a class="orange-link" href="#">Traditional Campaign and Non-Profit Services</a>
+		</h4>
+		<p class="card-text">Excited by our data stuff but looking for something more traditional? Our team can help staff your campaign, manage voter outreach, set up your website, build your logic model,work with your team to implement a data-driven decision making framework and more. Just give us a call and we will get you a custom quote.</p>
+		</div>
+	</div>
+	</div>
+	<div class="col-lg-4 col-sm-6 portfolio-item">
+	<div class="card h-100">
+		<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+		<div class="card-body">
+		<h4 class="card-title">
+			<a class="orange-link" href="#">Data for the People</a>
+		</h4>
+		<p class="card-text">We create visualizations that are available publicly in order to bring high-quality data exploration! Check out our work by clicking here and getting a taste of what our clients experience on a regular basis</p>
+		</div>
+	</div>
+	</div>
+</div>
+{% endblock content %}

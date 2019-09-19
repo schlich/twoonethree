@@ -1,4 +1,14 @@
 /* These styles are generated from project.scss. */
+/* TROLLEY LOGO COLOR VALUES
+Orange	CMYK 0/57/99/0 | RGB 246/136/32   | #F58821
+Darker Grey 	CMYK 58/49/47/15  | RGB 110/111/113  | #6E6F71
+Lighter Grey	CMYK 49/40/37/3  | RGB 138/139/143   | #8a8b8f
+Pink		CMYK 0/84//49/0| RGB 240/81/102   | #f05166
+
+
+213 GROUP LOGO COLOR VALUES
+Grey		CMYK 64/56/53/28| RGB 88/89/91 | #58595B
+*/
 
 .alert-debug {
   color: black;
@@ -10,4 +20,44 @@
   color: #b94a48;
   background-color: #f2dede;
   border-color: #eed3d7;
+}
+body {
+  padding-top: 0px;
+}
+
+.carousel-item {
+  height: 85vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-caption {
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.carousel-control-next {
+  filter: invert(100%);
+}
+
+.carousel-control-prev {
+  filter: invert(100%);
+}
+.my-4{
+  color: #58595B;
+}
+
+.orange-link{
+  color: #F58821;
 }
