@@ -2,7 +2,7 @@ import re, os, io, csv, string
 from django.core.management.base import BaseCommand
 from tqdm import tqdm
 from datetime import datetime
-from data.models import Committee, Contribution, Contributor, Company, Address, Individual
+from mec.models import Committee, Contribution, Contributor, Company, Address, Individual
 
 
 
