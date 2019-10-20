@@ -27,7 +27,7 @@ class Address(models.Model):
     zip = models.CharField(max_length=10)
 
     def __str__(self):
-        return self.address1 + "\n" + self.address2 + "\n" + \
+        return self.address1 + ", " + \
             self.city + ", " + self.state + ' ' + self.zip
 
 class Committee(models.Model):
