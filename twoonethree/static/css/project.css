@@ -36,11 +36,9 @@ body {
 }
 
 .carousel-caption {
-  text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
+  position: relative;
+  left: 0;
+  top: 0;
 }
 
 .portfolio-item {

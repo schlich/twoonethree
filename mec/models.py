@@ -1,9 +1,5 @@
-from django.db import models
+from django.contrib.gis.db import models
 
-# Create your models here.
-from django.db import models
-
-# Create your models here.
 class Election(models.Model):
     date = models.DateField()
     TYPE_CHOICES = (
@@ -18,6 +14,15 @@ class Election(models.Model):
     def __str__(self):
         return self.date.__str__() + ' (' + self.get_type_display() + ')'
 
+class District(models.Model):
+    name = models.CharField(max_length=25)
+    number = models.IntegerField()
+    district_type = models.CharField(max_length=2)
+    boundaries = models.PolygonField()
+
+    def __str__(self):
+        return self.name
+
 
 class Address(models.Model):
     address1 = models.CharField(max_length=100)
@@ -25,6 +30,12 @@ class Address(models.Model):
     city = models.CharField(max_length=50)
     state = models.CharField(max_length=2)
     zip = models.CharField(max_length=10)
+    districts = models.ManyToManyField(District)
+    us_h_dist = models.ForeignKey(District, related_name='us_h_dist', null=True, on_delete=models.CASCADE)
+    mo_h_dist = models.ForeignKey(District, related_name='mo_h_dist', null=True, on_delete=models.CASCADE)
+    mo_s_dist = models.ForeignKey(District, related_name='mo_s_dist', null=True, on_delete=models.CASCADE)
+
+    coordinates = models.PointField(null=True)
 
     def __str__(self):
         return self.address1 + ", " + \
