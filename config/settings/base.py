@@ -3,6 +3,7 @@ Base settings to build other settings files upon.
 """
 
 import environ, os
+import dj_database_url
 
 ROOT_DIR = (
     environ.Path(__file__) - 3
@@ -43,10 +44,8 @@ LOCALE_PATHS = [ROOT_DIR.path("locale")]
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
 
 DATABASES = {
-    "default": env.db("DATABASE_URL", default="postgres:///twoonethree")
+    "default": dj_database_url.config(default="postgis:///twoonethree")
 }
-DATABASES["default"]["ATOMIC_REQUESTS"] = True
-DATABASES["default"]["ENGINE"]= 'django.contrib.gis.db.backends.postgis'
 # URLS
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#root-urlconf
