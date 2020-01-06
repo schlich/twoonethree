@@ -78,7 +78,8 @@ SECURE_CONTENT_TYPE_NOSNIFF = env.bool(
 # AWS_S3_REGION_NAME = env("DJANGO_AWS_S3_REGION_NAME", default=None)
 # STATIC
 # ------------------------
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # https://docs.djangoproject.com/en/dev/ref/settings/#static-root
 STATIC_ROOT = os.path.join(BASE_DIR,"staticfiles")
 # https://docs.djangoproject.com/en/dev/ref/settings/#static-url
