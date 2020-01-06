@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import geopandas as gpd
 from django_plotly_dash import DjangoDash
-from django_pandas.io import read_frame
+# from django_pandas.io import read_frame
 from mec.models import District, Contribution
 from django.db.models import Avg, Count
 

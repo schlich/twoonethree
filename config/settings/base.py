@@ -2,7 +2,7 @@
 Base settings to build other settings files upon.
 """
 
-import environ
+import environ, os
 
 ROOT_DIR = (
     environ.Path(__file__) - 3
@@ -265,5 +265,5 @@ SOCIALACCOUNT_ADAPTER = "twoonethree.users.adapters.SocialAccountAdapter"
 
 # Your stuff...
 # ------------------------------------------------------------------------------
-GEOS_LIBRARY_PATH = environ.get('GEOS_LIBRARY_PATH')
-GDAL_LIBRARY_PATH = environ.get('GDAL_LIBRARY_PATH')
+GEOS_LIBRARY_PATH = os.environ.get('GEOS_LIBRARY_PATH')
+GDAL_LIBRARY_PATH = os.environ.get('GDAL_LIBRARY_PATH')
