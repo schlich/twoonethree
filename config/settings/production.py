@@ -86,7 +86,7 @@ STATIC_URL = "/static/"
 # https://docs.djangoproject.com/en/dev/ref/contrib/staticfiles/#std:setting-STATICFILES_DIRS
 STATICFILES_DIRS = (
     os.path.join(ROOT_DIR, 'static'),
-# )
+)
 # # MEDIA
 # # ------------------------------------------------------------------------------
 # # region http://stackoverflow.com/questions/10390244/
