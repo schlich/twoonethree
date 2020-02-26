@@ -22,6 +22,7 @@ Grey		CMYK 64/56/53/28| RGB 88/89/91 | #58595B
   border-color: #eed3d7;
 }
 body {
+  
   padding-top: 0px;
   font-family: 'Montserrat';
   font-weight: 500;
@@ -33,6 +34,7 @@ body {
 }
 h1, h2 {
   font-weight: 900;
+  color: #58595B
 }
 
 .bg-lightorange {
