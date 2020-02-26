@@ -23,6 +23,24 @@ Grey		CMYK 64/56/53/28| RGB 88/89/91 | #58595B
 }
 body {
   padding-top: 0px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  background-image: url(../images/fleurdelis_transparent.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1, h2 {
+  font-weight: 900;
+}
+
+.bg-lightorange {
+    background-color: #F58821;
+}
+
+.bg-grey {
+  background-color: #58595B;
 }
 
 .carousel-item {

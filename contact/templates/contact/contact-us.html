@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<h2>Contact Us</h2>
+<form action="/contact/" method="post">
+    {% csrf_token %}
+    {% for field in form %}
+        <div class="fieldWrapper">
+            {{ field.errors }}
+            {{ field.label_tag }} <br> {{ field }}
+        </div>
+    {% endfor %}
+    <p><input type="submit" value="Send message" /></p>
+</form>
+{% endblock content %}
