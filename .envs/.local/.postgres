@@ -1,5 +1,6 @@
 # PostgreSQL
 # ------------------------------------------------------------------------------
+POSTGRES_ENGINE='django.contrib.gis.db.backends.postgis'
 POSTGRES_HOST=postgres
 POSTGRES_PORT=5432
 POSTGRES_DB=twoonethree

@@ -8,10 +8,10 @@ from django.core.management.base import BaseCommand, CommandError
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        ungeocoded = Address.objects.filter(coordinates__isnull=True)
+        ungeocoded = Address.objects.filter(coordinates__isnull=True).filter(city='Maplewood')
         for addr in ungeocoded.iterator():
             self.stdout.write(str(addr))
-            response = requests.get(f'http://localhost:4000/v1/search/structured?address="{addr.address1}"&locality="{addr.city}"&region="{addr.state}"&postalcode="{addr.zip}"').json()
+            response = requests.get(f'http://localhost:4000/v1/search/structured?address="{addr.address1}"&region="{addr.state}"&postalcode="{addr.zip}"').json()
             if len(response['features']) == 1:
                 first_result = response['features'][0]
                 #postalcode = first_result['properties'].get('postalcode')

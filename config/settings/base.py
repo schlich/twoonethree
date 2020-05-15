@@ -2,8 +2,9 @@
 Base settings to build other settings files upon.
 """
 
-import environ, os
-import dj_database_url
+import environ
+# import os
+# import dj_database_url
 
 ROOT_DIR = (
     environ.Path(__file__) - 3
@@ -44,7 +45,7 @@ LOCALE_PATHS = [ROOT_DIR.path("locale")]
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
 
 DATABASES = {
-    "default": dj_database_url.config(default="postgis:///twoonethree")
+    "default": env.db("DATABASE_URL", default="postgis:///twoonethree")
 }
 # URLS
 # ------------------------------------------------------------------------------
@@ -142,7 +143,7 @@ MIDDLEWARE = [
 # STATIC
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#static-root
-STATIC_ROOT = str(ROOT_DIR("staticfiles"))
+STATIC_ROOT = str(ROOT_DIR("static"))
 # https://docs.djangoproject.com/en/dev/ref/settings/#static-url
 STATIC_URL = "/static/"
 # https://docs.djangoproject.com/en/dev/ref/contrib/staticfiles/#std:setting-STATICFILES_DIRS

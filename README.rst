@@ -82,5 +82,5 @@ See detailed `cookiecutter-django Heroku documentation`_.
 .. _`cookiecutter-django Heroku documentation`: http://cookiecutter-django.readthedocs.io/en/latest/deployment-on-heroku.html
 
 
-
-
+MEC data obtained from:
+https://mec.mo.gov/MEC/Campaign_Finance/CF_ContrCSV.aspx

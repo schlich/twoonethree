@@ -17,7 +17,7 @@ mec.layout = html.Div([
     dcc.RadioItems(
         id='district_type',
         options=[
-            {'label': 'MO House', 'value': 'SLDL'},
+            {'label': 'MO House', 'value': 'SLD.L'},
             {'label': 'MO Senate', 'value': 'SLDU'},
             {'label': 'US House', 'value': 'USH'},
             # {'label': 'STL Wards', 'value': 'stl'},
