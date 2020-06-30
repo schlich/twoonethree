@@ -270,3 +270,4 @@ SOCIALACCOUNT_ADAPTER = "twoonethree.users.adapters.SocialAccountAdapter"
 # GEOS_LIBRARY_PATH = os.environ.get('GEOS_LIBRARY_PATH')
 # GDAL_LIBRARY_PATH = os.environ.get('GDAL_LIBRARY_PATH')
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+os.environ["DJANGO_ALLOW_ASYNC_UNSAFE"] = "true"

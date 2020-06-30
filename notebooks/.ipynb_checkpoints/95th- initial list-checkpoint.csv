@@ -1,0 +1,770 @@
+First,Last,Employer,Occupation,Address,Avg Donation ($),# of Donations,Total Amount ($),Most Common Recipient,Most Recent Donation
+Kathryn,Hinkebein,Major Brands,Controller,5909 Cardinal Creek Dr,14.796521739130437,69,1020.9600000000002,Major Brands Political Action Committee,2020-03-19
+Randall,Simpson,Major Brands,Director Of Statewide Operations,2404 Boardwalk Place Drive,15.661764705882353,68,1065.0,Major Brands Political Action Committee,2020-03-19
+Andy,Lewis,AtT Services Inc,PrincipalTechnical Architect,6030 Cardinal Creek Dr,12.5,66,825.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Erika,Huber,Arsenal Credit Union,Cu Employee,2570 Tanglewood Dr,1.0,60,60.0,Credit Union Political Action Committee Of Missouri,2018-12-14
+Jerry,Fisher,Farmers Insurance,Staff Claims Mgr,6134 Pathfinder Dr,12.5,58,725.0,Feapac Of Missouri,2016-11-22
+Daniel,Fowler,American Family Insurance Group,Agent,2992 Spring Water Dr,39.40490909090909,55,2167.27,American Family Political Action CommitteeMo,2020-03-31
+Robert,Edmonds,SelfEmployed,Insurance Agent,810 Jeffco Blvd,7.9245283018867925,53,420.0,Feapac Of Missouri,2018-01-09
+David,Hallett,Major Brands,Sales Manager,2957 Sean Pkwy,10.424528301886792,53,552.5,Major Brands Political Action Committee,2019-12-19
+Cindy,Welch,Arsenal Credit Union,Cu Employee,2579 Frederitzi,1.0,52,52.0,Credit Union Political Action Committee Of Missouri,2018-12-14
+Jeremy,Heisserer,SelfEmployed,Insurance Agent,4185 Crescent Dr Ste C,16.1724,50,808.62,Feapac Of Missouri,2019-12-01
+Brian,Cordry,AtT Services Inc,PrincipalBusiness Mgmt,328 Golden Valley Dr,10.96938775510204,49,537.5,AtT Missouri Employee Political Action Committee,2019-12-06
+Tyler,Deleon,SelfEmployed,Insurance Agent,4185 Crescent Dr Ste C,24.79591836734694,49,1215.0,Feapac Of Missouri,2019-12-01
+Tony,Bekemeier,SelfEmployed,Insurance Agent,4029 Jeffco Blvd,23.6734693877551,49,1160.0,Feapac Of Missouri,2019-12-01
+Joan,Barry,Retired,,5050 Lampglow,107.63770833333332,48,5166.61,Oakville Democratic Organization,2020-02-08
+Kimberly,Foppe,AtT Services Inc,DirectorTechnology,5016 Crosswood Dr,12.872340425531915,47,605.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Holly,Mroczkowski,AtT Mobility Services Llc,Lead Product Management  Development,4435 Worthington Place,45.62095238095235,42,1916.0799999999988,AtT Missouri Employee Political Action Committee,2020-03-20
+Bob,Ford,Schnucks Transportation,Driver,2687 Sanders,98.96341463414635,41,4057.5,Oakville Democratic Organization,2020-03-25
+Michael,Chenot,US Postal Service,Letter Carrier,5520 Southfield Drive,27.625,40,1105.0,Branch 343 Natl Assoc Of Letter CarriersPac,2019-12-06
+Shawn,Lang,Southwestern Bell Telephone Company,Manager Network Services,1 Circle Drive,10.0,40,400.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Sumner,Hunnewell,AtT Services Inc,SeniorSoftware Delivery Proj Mgmt,2030 San Pedro Dr,10.0,38,380.0,AtT Missouri Employee Political Action Committee,2017-11-06
+Mary Ellen,Kalapinski,AtT Services Inc,Legal Secretary,1841 Jean Drive,7.7368421052631575,38,294.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Jane,Benesh,AtT Services Inc,Sr QualityMPProcess Mgr,6034 Southcrest Way,9.368421052631579,38,356.0,AtT Missouri Employee Political Action Committee,2016-11-21
+Thomas,Vogel,Tom Vogel Jr Agency Llc,Agent,4500 Telegraph Rd,16.666666666666668,36,600.0,American Family Political Action Committee  Mo,2020-03-31
+Glenn,Koenen,Retired,,2417 England Town Rd,173.91176470588235,34,5913.0,Nicole Galloway For Missouri,2020-03-12
+Michael,Marx,Ameren Services,Manager Crisis Management,4173 Fairburn Ct,5.645161290322581,31,175.0,Ameren Missouri Political Action Committee,2018-12-28
+Darlene,Owens,Neighbors Credit Union,Cu Employee,2639 Hemofrd Falls Ct,4.387096774193548,31,136.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Cathy,Lueckenhoff,Neighbors Credit Union,Cu Employee,3586 Chaplou Dr,4.387096774193548,31,136.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Mary Ann,Tatham,Neighbors Credit Union,Cu Employee,5543 Southfield Dr Apt H,4.387096774193548,31,136.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Linda,Newbold,Neighbors Credit Union,Cu Employee,4426 Pegasus,4.387096774193548,31,136.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Dzejna,Dzano,Neighbors Credit Union,Cu Employee,2826 Gatling Dr,4.387096774193548,31,136.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Patricia,Abounader,Neighbors Credit Union,Cu Employee,4331 Southview Way,10.833333333333334,30,325.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Paula,Held,Ameren Services,Secretary To PresCeo,4949 Karington Place Dr,1.6299999999999997,30,48.89999999999999,Ameren Missouri Political Action Committee,2019-12-27
+Gwendolyn,Brown,Ameren Services,Director It,6577 Crescent View Dr,25.0,30,750.0,Ameren Federal Political Action Committee Ameren Fedpac,2020-03-27
+Janice,Macke,Neighbors Credit Union,Cu Employee,4518 Coyle Ct,4.533333333333333,30,136.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Joe,Gragnani,City Of St Charles,Firefighter,4335 Martyridge Ct,21.071428571428573,28,590.0,Local 757 Fire Pac,2019-12-16
+Kimberly,Strickland,AtT Services Inc,SeniorBusiness Mgmt,2760 Bloomfield Dr,5.357142857142857,28,150.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Mary,Vonderheide,Preferred Resource Network Inc,Cpa,3588 Pearson Pointe Court,6.927037037037037,27,187.03,IstMo Nominee Pac Number Two,2020-03-05
+Charles,Kuchar,American Family Insurance Group,Agent,3440 Falcon View Ln,10.0,27,270.0,American Family Political Action CommitteeMo,2020-03-31
+Terri,Blunt,Thompson Coburn,Head Desk Analyst,5040 Flintwood,63.471111111111135,27,1713.7200000000007,IstMo Nominee Pac Number One,2020-03-28
+Carl,Hendrickson,,Retired,4661 Markton Dr,100.55555555555556,27,2715.0,Friends Of Cloria Brown,2019-10-28
+Robert,Proffer,Southwestern Bell Telephone Company,Director Network Services,2524 Brenna Ct,8.148148148148149,27,220.0,AtT Missouri Employee Political Action Committee,2016-11-21
+Sherrie,Stoppelmann,AtT Services Inc,ProfessionalBusiness Mgmt,333 Malone Drive,6.0,26,156.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Mary,Kullman,Laclede Gas Company,,5261 Tuscan Chase Court,44.286538461538456,26,1151.4499999999998,Laclede Political Action Committee,2014-10-17
+Nickolas,Fahs,Mehlville Fire District,Firefighter,7611 Fine Oaks Place,29.615384615384617,26,770.0,Major Brands Political Action Committee,2020-03-19
+Aaron,Burlingame,City Of St Charles,Firefighter,3018 Royal Highlands,21.25,24,510.0,Local 757 Fire Pac,2019-12-16
+Chris,Rodgers,AtT Services Inc,ProfessionalData Analysis,4602 Charter,9.130434782608695,23,210.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Laurie,Drewes,AtT Services Inc,SeniorBusiness Mgmt,2919 Woodbridge,5.0,22,110.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Thomas,Madden,Lu 562,,4657 Forest Valley Dr,74.13636363636364,22,1631.0,We Are Missouri,2020-03-18
+David,Townsend,ReMax Results,Real Estate Broker,5925 Woodbrook Dr,284.1786363636364,22,6251.93,Missouri Realtors Pac Inc,2019-07-17
+Elizabeth,Robinson,Neighbors Credit Union,Cu Employee,2910 Parc Cheri Ct,4.363636363636363,22,96.0,Credit Union Political Action Committee Of Missouri,2016-11-04
+Tim,Braloski,AtT Services Inc,Sr SpecialistAppProd Support,10 Enchanted Forest,5.0,22,110.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Ron,Frankenberg,Shelter Insurance,Agent,2545 Baumgartner Rd,21.904761904761905,21,460.0,Shelter Insurance Missouri Pac,2019-12-06
+Margaret,Brown,Retired,,528 Robin Dr,18.824285714285722,21,395.3100000000002,Enterprise Holdings Inc Pac,2019-12-27
+Louis,Holtmann,Retired,Retired,5751 Wickershire Ln,172.14285714285714,21,3615.0,Friends Of Ernie Trakas,2020-02-20
+Michelle,Ledbetter,Arsenal Credit Union,Cu Employee,3601 Kathleen Ann Dr,1.4285714285714286,21,30.0,Credit Union Political Action Committee Of Missouri,2018-12-14
+Autumn,Best,SelfEmployed,Insurance Agent,4455 Telegraph Rd Ste 100A,7.857142857142857,21,165.0,Feapac Of Missouri,2019-03-15
+Tamar,Gleason,Neighbors Credit Union,Cu Employee,13389 East Lane,4.421052631578948,19,84.0,Credit Union Political Action Committee Of Missouri,2018-12-28
+Tom,Vogel,American Family Insurance Group,Agent,2810 Christopher Bluffs Ln,72.89473684210526,19,1385.0,American Family Political Action CommitteeMo,2019-11-12
+Sean,Fauss,Reservist,Us Airforce,2231 Summit Drive,42.42526315789474,19,806.08,Fauss Campaign Fund,2020-03-19
+Timothy,Vogel,American Family Mutual Insurance Company SI,Agent,4500 Telegraph Rd,10.0,19,190.0,American Family Political Action CommitteeMo,2020-03-31
+Michael,Evans,Fox School,Teacher,509 Hannah Way,87.10526315789474,19,1655.0,Better Schools For Missouri,2019-12-17
+Christopher,Becker,SelfEmployed,Insurance Agent,4409 Meramec Bottom Rd Ste A,11.11111111111111,18,200.0,Feapac Of Missouri,2018-01-09
+Christopher,Nelms,Ameren Services,Manager Process  Systems,3150 Olde Post Rd,10.0,18,180.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Kurt,Witzel,Imbev,,3116 Southridge Park Ln,89.83333333333333,18,1617.0,Friends Of Cloria Brown,2020-01-29
+Steven,Brophy,Ameren Missouri,Director Customer Care,3021 Silver Bow Ct,10.0,18,180.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Bobby,Ford,None,Retired,2687 Sanders,12.277647058823527,17,208.71999999999997,IstMo Nominee Pac Number One,2020-03-19
+Richard,Lewis,American Family Mutual Insurance Company SI,Agent,4500 Telegraph Rd,10.625,16,170.0,American Family Political Action Committee  Mo,2020-03-31
+Barry,Menzel,American Family Insurance,Insurance Aget,2457 Boardwalk Place,7.8125,16,125.0,American Family Political Action Committee  Mo,2020-03-31
+Susan,Middendorf,Coldwell Banker Gundaker,Real Estate Broker,2715 Claymont Dr,336.59875,16,5385.58,Missouri Realtors Pac Inc,2020-03-09
+Deborah,Deterding,AtT Services Inc,SeniorBusiness Mgmt,4506 Meadowford Dr,5.0,16,80.0,AtT Missouri Employee Political Action Committee,2017-12-21
+Joe,Zelle,Retired,,5753 Chatport,116.6875,16,1867.0,Oakville Democratic Organization,2020-01-23
+Kevin,Scott,American Family Mutual Insurance Company SI,Agent,5430 Lemay Ferry Rd,2.0,15,30.0,American Family Political Action Committee  Mo,2020-03-31
+Mark,Luetkemeyer,American Family Mutual Insurance Company SI,Agent,4500 Telegraph Rd,5.0,15,75.0,American Family Political Action Committee  Mo,2020-03-31
+Tim,Kempf,SelfEmployed,Insurance Agent,4185 Crescent Dr Ste C,26.444000000000003,15,396.66,Feapac Of Missouri,2014-11-07
+Luke,Vogel,Luke Vogel Agency Llc,Agent,4500 Telegraph Rd,5.0,15,75.0,American Family Political Action Committee  Mo,2020-03-31
+Milton,Rudi,Retired,,532 Susan Rd,943.9285714285714,14,13215.0,Friends Of Cloria Brown,2019-11-11
+Cheryl,Fellner,Retired,Teacjer,3560 Queens Hill Dr,18.96,14,265.44,Elad Gross For Missouri,2020-03-31
+Jane,Koeller,Retired,,4227 Chatford,92.64285714285714,14,1297.0,Citizens For Vicki Lorenz Englund,2019-04-19
+Marietta,Schwalbe,Na,Retired,6205 Treeridge Trl,62.142857142857146,14,870.0,Clean Missouri,2019-11-27
+David,Robert,Midas Hospitality,,5161 Kings Park Dr,400.0,14,5600.0,Citizens For Steve Stenger,2019-12-20
+Marc,Kolaks,AtT Services Inc,Director Technology Security,5532 Dantonaire Place,5.192857142857143,14,72.7,AtT Missouri Employee Political Action Committee,2015-12-21
+Robert,Boyer,The Sterling Company,,2387 Starling Airport Rd,80.0,14,1120.0,Dave Marshak Election Committee,2020-02-25
+Abbey,Kriegel,Arsenal Credit Union,Cu Employee,5711 Mango Dr,1.0,13,13.0,Credit Union Political Action Committee Of Missouri,2016-08-12
+Mary,Wochner,,Retired,5526 Remington Villas Ct,128.84615384615384,13,1675.0,Baker For Missouri,2019-10-24
+William,Fulhorst,AtT Services Inc,Sr Technical Team Lead,8 Duffview Court,6.0,12,72.0,AtT Missouri Employee Political Action Committee,2014-11-21
+Scott,Forrest,City Of St Charles,Firefighter,3737 Gumtree Ln,10.833333333333334,12,130.0,Local 757 Fire Pac,2019-12-16
+Matt,Hofer,City Of St Charles,Firefighter,4352 Bristol View Court,10.833333333333334,12,130.0,Local 757 Fire Pac,2019-12-16
+James,Enright,,Retired,4301 Martyridge Ct,51.81818181818182,11,570.0,Friends Of Cloria Brown,2016-08-09
+Michael,Walsh,Eagle Bank,President,6806 Wynfield Terrace,590.9090909090909,11,6500.0,Citizens For Hamacher,2019-10-31
+Jack,Collins,AtT Services Inc,Sr Tax Accountant,6433 Farmcrest Ct,5.0,10,50.0,AtT Missouri Employee Political Action Committee,2019-12-20
+Sam,Veltri,Retired,,2661 Apple Creek Dr,105.0,9,945.0,Oakville Democratic Organization,2020-01-23
+Laurie,Brickey,Mehlville Nea,,4344 Butler Hill Rd,28.88888888888889,9,260.0,Mo National Education AssocPac,2019-01-09
+Glen,Koenen,Retired,,2417 England Town Rd,169.225,8,1353.8,Good Citizens For Koenen,2019-09-01
+William,Cocos,,Business OwnerPlumber,2900 Erb Road,250.0,7,1750.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2017-12-30
+John,Schuh,,Retired,490 Pine Ct,80.0,7,560.0,Boyer For Assessor,2016-08-30
+Arindam,Kar,Bryan Cave,Attorney,3027 Windsor Point Dr,97.57142857142857,7,683.0,Annie Rice For Stl,2019-12-24
+Brian,Taylor,Jcso,Deputy,2416 England Towne,241.42857142857142,7,1690.0,Dave Marshak Election Committee,2020-02-07
+Bob,Boyer,The Sterling Co,,2387 Starling Airport Rd,196.42857142857142,7,1375.0,Boyer For Assessor,2018-03-22
+Robert,Lindsley,,Retired,1182 Jere Lane,67.85714285714286,7,475.0,Berg For Change,2018-03-09
+Michael,OBrien,St Louis Community Credit Union,Marketer,3084 Woodbridge Creek Dr,89.28571428571429,7,625.0,Committee To Elect Jake Hummel,2018-03-23
+Daniel,Jones,Banking,Banking,3822 Baeumner Dr,425.7142857142857,7,2980.0,Local 257 Ibew Voluntary Political Fund,2019-03-19
+Anita,Wallace,,Retired,13316 East Ln,28.571428571428573,7,200.0,AtT Missouri Employee Political Action Committee,2016-02-20
+Michael,Santangelo,AtT Services Inc,SeniorAdvanced Technical Support,2903 Royal Seasons Dr,5.0,6,30.0,AtT Missouri Employee Political Action Committee,2019-12-20
+William,Leingang,Ameren Missouri,Consulting Engineer,2740 Towne Oaks Dr,2.0,6,12.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Susan,Torbeck,Coldwell Banker Gundaker,Real Estate Agent,2563 Black Water Ct,527.9583333333334,6,3167.75,Missouri Realtors Pac Inc,2019-09-05
+Gregory,Key,Ameren Missouri,Sr Commodity Trader,4364 Hawkins Glen Way,2.0,6,12.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+John,Marincel,Jack M Marincel DDS PC,Dentist,5921 Briarmist Pl,100.0,6,600.0,Nicole Galloway For Missouri,2020-03-09
+Sherry,Hatton,Coldwell Banker Gundaker,Real Estate Agent,5838 White Pine Dr,420.0416666666667,6,2520.25,Missouri Realtors Pac Inc,2019-11-25
+Cheryl,Hammerstone,Ameren Services,Lead Tax Specialist,2150 England Town Rd,3.0,6,18.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Jeffrey,Hynds,Ameren Services,Consulting Engineer,2876 Woodbridge Estates Dr,2.0,6,12.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Cynthia,Foerstel,Ameren Illinois,Lead Gas Supply Executive,6827 River Hollow Ct,5.0,6,30.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Brooke,Reynolds,Self,Optometrist,7392 Tournament Dr,60.76333333333333,6,364.58,Missouri Optometric Association Pac,2019-07-01
+Shirley,Singleton,,Retired,165 E Donaldson Dr,27.5,6,165.0,Friends Of Cloria Brown,2016-09-19
+Marie,Roth,,Retired,5379 Kerth Rd,40.0,6,240.0,Friends Of Cloria Brown,2016-09-12
+Marilyn,Chambers,Retired,Retired,4339 Ironside Ln,59.166666666666664,6,355.0,Friends Of Cloria Brown,2018-12-06
+Marilyn,Schuessler,AtT Services Inc,SeniorProject Manager,7206 Stone Pointe Ct,5.0,6,30.0,AtT Missouri Employee Political Action Committee,2014-11-21
+Kenneth,Stuckmeyer,Ameren Missouri,Manager Perf  Reliability,124 Cripple Creek Ct,5.0,6,30.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Lou,Holtmann,Kofc Mo State Council,Meet Life Coordinator,5751 Wickershire Lane,59.166666666666664,6,355.0,Hanaway For Governor Inc,2019-03-27
+Howard,Ketzner,Retired,,5368 South View Hills Ct,72.5,6,435.0,Friends Of Cloria Brown,2016-10-13
+David,Hohenstein,Ameren Missouri,Supt Supply Chain Ops  Mo,322 Greycliff Bluff Dr,2.0,6,12.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+Victor,Alarcon,Ameren Services,Supervisor Supply Chain Coord,643 Tanya Court Dr,2.0,6,12.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-12-27
+George,Gladis,HuntleighMcghee,,3651 Coffee Tree Ct,504.1666666666667,6,3025.0,Citizens To Elect Waller,2016-10-24
+Mary Beth,Rhomberg,Self,Optometrist,5828 Bristlecone Ct,175.0,6,1050.0,Mo OptometricPac,2019-11-05
+Edward,Koeller,Tesson Ferry Township,Retired,4227 Chatford Ct,123.33333333333333,6,740.0,Oakville Democratic Organization,2018-04-06
+Elizabeth,Swierk,St AnthonyS Hospital,Registered Nurse,5556 Providence Place Dr,186.0,5,930.0,Citizens For Tony Manansala,2014-10-27
+Karen,Hallsten,,Self Employed,2153 Chatport Rd,31.0,5,155.0,Friends Of Cloria Brown,2019-09-12
+Ed,Elder,Colliers International,President,365 Heritage Woods Dr,350.0,5,1750.0,Miller For Mayor,2019-11-26
+George,Archer,,Attorney,4500 Telegraph Ste 106,90.0,5,450.0,Citizens To Elect Joe Rathert,2018-06-13
+Marge,Martens,Retired,Retired,2556 England Town Rd,18.0,5,90.0,Hawley For Missouri,2016-09-23
+Louis G,Holtmann,,Retired,5751 Wickershire Ln,470.0,5,2350.0,Republican Central Committee Of St Louis County,2020-02-27
+Louis,Chiodini,,Retired,7633 River Walk Ct,67.0,5,335.0,Friends Of Cloria Brown,2019-06-18
+Neil,Bruntrager,Bruntrager  Billings,Lawyer,462 Jackson,461.4,5,2307.0,Friends Of Jeff Roorda,2019-03-20
+Tim,Vogel,American Family Insurance Group,Agent,2893 Woodbridge Estates Dr,10.0,5,50.0,American Family Political Action CommitteeMo,2016-11-30
+Howard,Brandt,,Retired,4386 Honeydew Ln,50.0,5,250.0,Friends Of Cloria Brown,2016-06-15
+Ron,Komlos,Flooring Systems Inc,Business Owner,4130 Meramec Bottom Rd,2600.0,5,13000.0,Citizens For Steve Stenger,2018-06-20
+Ann,Pluemer,Coldwell Baker,Real Estate Agent,3585 Lakeview Heights,85.0,5,425.0,Oakville Democratic Organization,2018-03-26
+Catherine,Harbaugh,,Retired,3611 Coffee Tree Ct,45.0,5,225.0,Friends Of Cloria Brown,2016-09-27
+Bernie,Ryan,Mcdean,Electrician,5738 Wickershire Lane,70.0,5,350.0,Committee To Elect Jake Hummel,2019-12-04
+Jeffrey,Pikul,Self,Optometrist,103 Bogey Blvd,250.0,5,1250.0,Mo OptometricPac,2020-01-20
+Marvin,Proffer,None,Retired,2858 Spring Water Dr,137.5,4,550.0,Schupp For Senate,2016-10-15
+Charlene,Barker,JoAnn Fabric,,2650 Cliffwood Trail,40.0,4,160.0,Friends Of Cloria Brown,2014-10-01
+Robert,Hall,Retired,,5480 Fireleaf Drive,256.25,4,1025.0,Citizens For Atchison,2020-03-24
+Huber,Erika,Arsenal Credit Union,Cu Employee,2570 Tanglewood Dr,1.0,4,4.0,Credit Union Political Action Committee Of Missouri,2014-11-20
+Michelle,Sargent,NA,Retired Dental Hygienist,5428 Oakvilla Manor Dr,1.74,4,6.96,IstMo Nominee Pac Number Two,2020-03-21
+Debbie,Bader,Southpointe Credit Union,Cu Employee,6073 Arborfield Ct,18.75,4,75.0,Credit Union Political Action Committee Of Missouri,2016-07-22
+Doris,Thuro,,Retired,5017 Bellarina Dr,202.5,4,810.0,Friends Of Cloria Brown,2016-09-16
+Mark,Kilo,Globalgreen Insurance,Insurance Agent,2931 Marchbanks Pl,340.0,4,1360.0,Mcdonough For Judge,2020-02-14
+Debra,Absheer,Hoffman Development,Administrative Assistant,6529 Galewood Ct,150.0,4,600.0,Beck For Missouri,2020-03-04
+Lisa,Boyer,Lbscg,Consultant,7533 Finestowne Pointe Ct,150.0,4,600.0,Koster For Missouri,2016-11-07
+Joyce,Bertelsman,AtT Services Inc,SeniorBusiness Mgmt,3069 Woodbridge Creek,5.0,4,20.0,AtT Missouri Employee Political Action Committee,2013-12-20
+Jerri,Birsinger,Self,Optometrist,3043 Jamie Ct,78.125,4,312.5,Mo OptometricPac,2016-11-10
+Linda,Fierst,,Retired,113 River Breeze Way,28.75,4,115.0,Friends Of Cloria Brown,2016-08-09
+David,Jirsa,Retired,,4618 Karamar Dr,20.0,4,80.0,Friends Of Cloria Brown,2016-06-03
+Nancy,Buehler,Southpointe Credit Union,Cu Employee,5740 Lilac Trails Dr,18.75,4,75.0,Credit Union Political Action Committee Of Missouri,2016-07-22
+Nancy,Patterson,Not Employed,,5009 Southridge Park Dr,225.0,4,900.0,Citizens For Steve Stenger,2019-06-30
+Michael,Walter,Ibew,,3061 Arrowhead Point Dr,83.75,4,335.0,Bob Burns For State Rep Committee,2018-05-05
+Welch,Cindy,Arsenal Credit Union,Cu Employee,2579 Frederitzi,1.0,4,4.0,Credit Union Political Action Committee Of Missouri,2014-11-20
+Jason,Flowers,Coldwell Baker,Real Estate Agent,6011 Gatling Dr,75.0,4,300.0,Good Citizens For Koenen,2019-12-06
+Michael,Schicker,AtT Services Inc,Sr Technical Director,7036 Briar Bluff Dr,5.0,4,20.0,AtT Missouri Employee Political Action Committee,2013-12-20
+Kent,Bettale,Waddell  Reed,Financial Advisor,2803 Windford Drive,50.0,4,200.0,Missourians For Randles,2019-06-20
+Jean,Pretto,Self,Piano Teacher,114 West Pottle Avenue,47.5,4,190.0,Doug Beck For State Representative,2018-06-27
+Venki,Palamand,Martak Machine,Engineer,5385 Royal Hills Drive,48.75,4,195.0,Beck For Missouri,2020-03-31
+Eric,Miller,Ibew Local 1,Electrician,137 Greycliff Bluff Dr,75.0,4,300.0,Committee To Elect Jake Hummel,2019-12-16
+Angela,Rule,State Farm,,5153 Lemay Ferry Rd,25.0,4,100.0,Mosfa Pac Inc,2013-11-30
+Sally,Stotts,,Business Owner,2125 Ashton Circle Ct,2500.0,4,10000.0,Citizens For Steve Stenger,2014-08-25
+Nolan,Black,AtT Services Inc,Sr Technical Director,331 Bluff View Circle,5.0,4,20.0,AtT Missouri Employee Political Action Committee,2013-12-20
+Michael,Hafner,Barklage  Knodell,Consultant,138 Pioneer Dr,48.43,4,193.72,Missourians For John Brunner,2017-11-30
+Ellen,Brooke,Rssc Llc,Attorney,6208 Whisper Bend Dr,275.0,4,1100.0,Finneran For Missouri,2020-03-13
+James,Schmaltz,Ameren Ue,,3014 Woodridge Estates Dr,10.0,3,30.0,Local 148 International Union Of Operating Engineers Mo Pac,2019-12-01
+Lueckenhoff,Cathy,Neighbors Credit Union,Cu Employee,3586 Chaplou Dr,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Jessica,Rude,Shelter Insurance,District Sales Manager  District 43,5945 Hawkins Ridge Ct,10.0,3,30.0,Shelter Insurance Missouri Pac,2017-12-29
+Shelley,Burris,Retired,,7353 Terri Robyn Dr,33.333333333333336,3,100.0,Citizens For Murphy,2019-11-15
+Louis,Holtman,Requested,Requested,5751 Wickershire Lane,70.0,3,210.0,Citizens For Murphy,2019-06-07
+Abounader,Patricia,Neighbors Credit Union,Cu Employee,4331 Southview Way,11.666666666666666,3,35.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Lori,Becker,The Starkloff Disability Institute,Director Of Development  Communications,3818 Rock Bluff Ct,66.66666666666667,3,200.0,Committee To Elect Jake Hummel,2016-09-22
+Ll,Berra,SelfEmployed,Wellness And Life Coach,5155 Oakfire Dr,33.333333333333336,3,100.0,Citizens For Hamacher,2019-02-19
+Lisa,Roseland,Ameren Services,Sr Mgr Healthcare  Benefit Op,3566 Yaeger Crossing Ct,5.0,3,15.0,Ameren Federal Political Action Committee Ameren Fedpac,2019-11-13
+Kristine,Fields,Receptionist,Callier And Thompson,3539 Brookstone South Arrive,27.333333333333332,3,82.0,Friends Of Erica Hoffman,2019-06-30
+Wilma,Haefner,,Retired,5423 Morningdale Pl,36.666666666666664,3,110.0,Friends Of Cloria Brown,2016-09-16
+Eileen,Pacino,Retired,Retired,4119 Metaxa Ln,133.33333333333334,3,400.0,Elad Gross For Missouri,2019-10-25
+Beth,Swierk,St AnthonyS Medical Center,Registered Nurse,5556 Providence Place Dr,180.0233333333333,3,540.0699999999999,Citizens For Tony Manansala,2014-07-12
+Timothy,Tierney,Evans And Dixon,Attorney,145 Greycliff Bluff Dr,133.33333333333334,3,400.0,Citizens For Hamacher,2016-09-27
+Terry,Roberds,Ameren Ue,Security,2400 Southwind Meadows Ct,200.0,3,600.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2016-07-30
+Larry,Felton,Technology Partners,Consultant,5949 Briarmist Place,100.0,3,300.0,Scott Sifton For Missouri,2019-05-19
+Dorothy,Overbey,Coldwell Banker Gundaker,Real Estate Agent,2816 Woodbridge Estates Dr,225.25,3,675.75,Missouri Realtors Pac Inc,2018-06-26
+Laura,Alfeldt,First Community Cu,Vp Marketing,6923 Graystone Ridge Ct,66.66666666666667,3,200.0,Credit Union Political Action Committee Of Missouri,2019-10-03
+Barb,Hantman,Not Employed,Not Employed,237 Bluff View Cir,10.0,3,30.0,Nicole Galloway For Missouri,2019-12-25
+Dzano,Dzejna,Neighbors Credit Union,Cu Employee,2826 Gatling Dr,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Judy,Kramer,Retired,Retired,2207 Aileswick Drive,133.33333333333334,3,400.0,ElectgregmuellerCom,2019-08-10
+Tatham,Mary Ann,Neighbors Credit Union,Cu Employee,5543 Southfield Dr Apt H,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Lerch,Joann,Neighbors Credit Union,Cu Employee,5538 Southfield Dr Apt F,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Laverne,Moersch,,Retired,3651 Barbagallo,53.333333333333336,3,160.0,Friends Of Cloria Brown,2016-09-22
+Tim,Johnson,Not Employed,Not Employed,7215 Emerald Hill Ct,50.333333333333336,3,151.0,Citizens For Terry Lesinski,2020-02-29
+Ronald,Klein,Metro Taxicab Commission,,5806 Southcrest Way,166.66666666666666,3,500.0,Friends Of Gregory Fx Daly,2019-02-19
+Macke,Janice,Neighbors Credit Union,Cu Employee,4518 Coyle Ct,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Celeste,Witzel,Washington University,Administration,3116 Southridge Park Ln,43.333333333333336,3,130.0,Friends Of Cloria Brown,2016-05-18
+Ruth,Hauck,,Retired,5111 Firelight Ct,30.0,3,90.0,Friends Of Cloria Brown,2014-09-03
+Patrick,Moylan,,Retired,2560 Rolens Dr,133.33333333333334,3,400.0,Friends Of Cloria Brown,2018-12-27
+Charlie,Holland,Coin Co,Executive,3950 Camelot Estates Ct,100.0,3,300.0,Committee To Elect Jeremy Day,2014-10-29
+John,Willett,Requested,Requested,2517 Christopher Lake Ct,700.0,3,2100.0,Citizens For Steve Stenger,2016-04-23
+Hegger,Tammee,Neighbors Credit Union,Cu Employee,4544 Ashfield Dr,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Owens,Darlene,Neighbors Credit Union,Cu Employee,2639 Hemofrd Falls Ct,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Matthew,Ashby,Lindbergh School District,Teacher,6904 Colonial Woods Dr Apt 99,20.0,3,60.0,Debra Carnahan 4 Stl,2019-02-21
+Newbold,Linda,Neighbors Credit Union,Cu Employee,4426 Pegasus,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Karl,Witzel,Ab Inbev,,4473 Nazareth Hills Ln,66.66666666666667,3,200.0,Friends Of Cloria Brown,2016-08-09
+Cindy,Redburn,Retired,,5266 Brass Lantern Pl,152.0,3,456.0,Committee To Elect John Blazek,2019-12-13
+Janet,Schmidt,Jeff Co Juvenile Off,Deputy Juvenile Officer,5202 Mild,256.6666666666667,3,770.0,Citizens To ReElect A Riehl Judge,2016-09-29
+Daniel,Eckenfels,Mercy Hospital Jefferson,Chief Financial Officer,115 Woodside Court,166.66666666666666,3,500.0,Healthpac,2016-08-26
+Clarence,Siebert,Retired,,6203 Whisper Bend Dr,200.0,3,600.0,Citizens For Mary Pat Carl,2018-05-09
+John,Lebrell,None,,5533 Windford Dr,50.0,3,150.0,Missouri Club For Growth Political Action Committee,2016-09-09
+Michael,Vierling,None,Student,6127 Erb Road,17.333333333333332,3,52.0,Friends Of Adrian Plank,2018-02-16
+Mike,Bell,Ameren Ue,,6243 Treeridge Trail,10.0,3,30.0,Local 148 International Union Of Operating Engineers Mo Pac,2019-12-01
+Mike,Archer,Self Employed,Lawyer,4500 Telegraph Rd,86.66666666666667,3,260.0,Citizens For Murphy,2019-11-16
+Richard,Huddleston,,Tax Law Specialist,4223 Cherbourg Dr,18.333333333333332,3,55.0,Friends Of Cloria Brown,2018-01-30
+Pettus,Beverly,Neighbors Credit Union,Cu Employee,5559 Southfield Apt H,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Robert,Haul,,Engineer,5480 Fireleaf Dr,100.0,3,300.0,Friends Of Cloria Brown,2018-01-29
+Denis,Chulick,Whetstone Enterprises,President,5528 Homeward Ln,534.4,3,1603.2,Nicole Galloway For Missouri,2020-03-13
+Ruth,Haefner,,Retired,6515 Christopher Dr,26.666666666666668,3,80.0,Friends Of Cloria Brown,2016-10-27
+Roy,Wilde,Retired,,3533 Swan Circle South,133.33333333333334,3,400.0,Citizens For Bob Boyer,2016-07-01
+Ronnie,Marsh,IBEW,,5660 Heintz Rd,216.66666666666666,3,650.0,Citizens For Steve Stenger,2018-03-15
+Michele,Meyer,Mercy Hospital Jefferson,Vice President Of Operations,230 Grimsley Station Bluff Drive,166.66666666666666,3,500.0,Healthpac,2016-08-26
+Ronald,Cipolla,,Entrepreneur,2906 Royal Seasons Dr,250.0,3,750.0,Citizens For Steve Stenger,2014-09-04
+Gina,Taylor,Coldwell Banker Gundaker,Real Estate Agent,5631 Winter Garden Ct,786.5833333333334,3,2359.75,Missouri Realtors Pac Inc,2019-06-20
+Robinson,Elizabeth,Neighbors Credit Union,Cu Employee,2910 Parc Cheri Ct,4.666666666666667,3,14.0,Credit Union Political Action Committee Of Missouri,2014-11-17
+Carol,Ludwig,Not Employed,Not Employed,7011 Willow Branch Court,15.0,3,45.0,Clean Missouri,2018-01-07
+Karen,Torretta,Mehlville School District,Substitute Teacher Part Time,5227 Patterson Rd,21.98,3,65.94,Mo National Education AssocPac,2019-12-17
+Joan,Berry,Retired,,5050 Lampglow Court,62.5,2,125.0,St Louis County Democratic Central Committee,2020-02-25
+John,Mudd,Retired,Retired,2861 Flamewood Dr,42.5,2,85.0,Friends Of Rick Stream,2016-08-19
+Joe M,Garavaglia,Archdiocese Of Saint Louis,Accountant,4352 Honeydew Lane,11.0,2,22.0,Tesson Ferry Township Republican Club,2018-03-08
+Joseph,Nickerson,City Of St Louis,,113 Staehle Ct,175.0,2,350.0,Friends Of Gregory Fx Daly,2018-04-10
+Joseph,Zelle,Retired,,5753 Chatport Rd,100.0,2,200.0,Citizens For Vicki Lorenz Englund,2017-12-13
+Joseph,Politte,U S Postal Service,Letter Carrier,305 Monte Vista Drive,75.0,2,150.0,Branch 343 Natl Assoc Of Letter CarriersPac,2019-08-10
+Jonathan,Shulan,,Attorney,3715 Summerlyn Ct,150.0,2,300.0,Mcculloch For Prosecutor Committee,2018-12-13
+Jennifer,Neuhoff,Neighbors Credit Union,Cu Employee,5813 Briarwood Terrace Ct,3.0,2,6.0,Credit Union Political Action Committee Of Missouri,2013-11-26
+John,Hixson,Requested,,2121 Cliff Cave Crossing Ct,125.0,2,250.0,Committee To Elect Randy Jotte,2019-03-01
+Judith,Worth,Not Employed,Not Employed,3771 Yaeger Rd,7.5,2,15.0,Nicole Galloway For Missouri,2019-11-19
+Jeffrey,Wagener,St Louis County,Staff,7916 Pine Top Dr,200.0,2,400.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2018-03-15
+Judith A,Worth,Retired,Retired,3771 Yaeger Rd,1.74,2,3.48,IstMo Nominee Pac Number Two,2020-03-27
+,Fortunebank,Fortune Bank,,3488 Jeffco Boulevard     Suite 101,1603.0,2,3206.0,Mba Gateway Region Pac,2019-05-16
+Kathleen,Eardley,None,Mom,3513 Cabernet Way,275.0,2,550.0,Citizens For Murphy,2018-03-21
+Patricia,Guttmann,Not Employed,Not Employed,2720 Cree Ct,25.0,2,50.0,Nicole Galloway For Missouri,2019-12-18
+Peder,Hulse,Hulse Commercial Real Estate,Real Estate Broker,5237 S Glen Ct,112.5,2,225.0,Citizens For Ogilvie,2016-06-20
+Ray,Wentzelberger,Cowley News,,2704 Willow Bluff Ct,52.5,2,105.0,Berg For Change,2016-06-21
+Robert,Ecker,Retired,,3428 Falconview,80.0,2,160.0,Murphy For Sheriff Jim,2016-04-21
+Robert,Trautman,Retired,Retired,2540 Brush Creek Rd,375.0,2,750.0,Friends Of Rick Stream,2016-07-19
+Roger,Byrne Jr,Bethesda Health Group,Senior Vice President,4991 Southridge Park Drive,25.0,2,50.0,Friends Of Caleb Jones,2014-10-23
+Sally,Dehner,Not Employed,Not Employed,5464 Fireleaf Dr,15.0,2,30.0,Elad Gross For Missouri,2020-01-10
+Sandra,Hernandez,,Homemaker,7003 Willow Branch Ct,22.5,2,45.0,Friends Of Cloria Brown,2016-10-27
+Sandra,Parker,,Insurance Agent,5919 Oakville Woods Place,75.0,2,150.0,Bob Burns For State Rep Committee,2016-03-22
+Shannon,Maki,Neighbors Credit Union,Cu Employee,5064 Clayridge Dr 208,4.0,2,8.0,Credit Union Political Action Committee Of Missouri,2013-11-26
+Sheila,Julien,Mercy Hospital Jefferson,,357 Heritage Woods Drive,187.5,2,375.0,Healthpac,2015-11-20
+Sheryl,Hodges,St Louis County,Public Works Director,3033 Piney Pointe Dr,750.0,2,1500.0,Dooley For St Louis County,2014-03-06
+Stephen,Mcmullen,Requested,,2807 Elk Peek,75.0,2,150.0,Committee To Elect Randy Jotte,2018-03-27
+Steven,Lechner,Lechner Realty Group,President,7245 Christopher,500.0,2,1000.0,Citizens For Steve Stenger,2019-06-27
+Susan,Morton,Data Dash,Ceo,2745 Yaeger Rd,175.0,2,350.0,Dirk Deaton For Missouri,2019-11-10
+Susan,Sinclair,Pms Marketing Llc,Requested,4707 Ferdina Ct,750.0,2,1500.0,Citizens For Steve Stenger,2016-05-02
+Theresa,SaundersKleusch,Retired,,5443 Hollow Oak Ct,50.0,2,100.0,Bob Burns For State Rep Committee,2016-09-01
+Thomas,Schmittgens,Medicine Shoppe,Pharmacist,7637 River Walk Ct,137.5,2,275.0,Beck For Missouri,2019-03-08
+Vincent,Rogers,Amarezk,Sales,3517 Cabernet,62.5,2,125.0,Friends To Elect Yates Circuit Judge,2016-10-20
+Wayne,Hilzinger,Wayne Hilzinger Agency,Owner,5520 Telegraph Rd,375.0,2,750.0,Koster For Missouri,2016-10-15
+William,Diepenbrock,SelfEmployed,Financial Services,5002 Barbagallo Drive,100.0,2,200.0,Committee To Elect Randy Jotte,2016-09-27
+William F,Murphy,Murphy Property Tax,AttorneyReal Estate,6747 Black Water Drive,200.0,2,400.0,Slay For Mayor,2014-09-30
+Patrick,Kozeny,KozenyWagner,Owner,5940 Royal Country Dr,500.0,2,1000.0,Committee To Elect Jeff Roorda,2018-03-03
+Pamela,Ford,Bjc,,2687 Sanders,85.0,2,170.0,Anne Zerr For Missouri,2018-04-11
+Kay,Bach,Faith Lutheran Church,,2523 Willow Knoll Pl,60.0,2,120.0,Friends Of Cloria Brown,2014-03-27
+Nick,Fahs,Firefighters,,7611 Fine Oaks Pl,175.0,2,350.0,Mike Walter For Mo 95Th,2018-03-15
+Kevin,Mccauley,The Workout Company,Owner,3117 Southridge Park Lane,250.0,2,500.0,Committee To Elect Randy Jotte,2016-10-20
+Kevin,Schartner,Ameren,,3081 Woodbridge Creek Dr,1500.0,2,3000.0,Schartner For Mehlville Schools,2016-03-08
+Lynn,Benjamin,Bayada Nurses,Nurse,2857 Woodbridge Estates Dr,170.0,2,340.0,Dooley For St Louis County,2018-04-27
+Marcella,Elder,First Missouri Cu,Board Of Directors,2811 Flameglow Dr,705.0,2,1410.0,Credit Union Political Action Committee Of Missouri,2017-10-30
+Marie,Pankey,Mehlville School District,Teacher,5326 Casa Royale Dr,50.0,2,100.0,Finneran For Missouri,2019-10-22
+Marion,Sims,Retired,,3328 Sage Ct,75.0,2,150.0,Committee To Elect Randy Jotte,2019-06-30
+Mark,Haefner,,Attorney,4372 Casa Brazilia Dr Ste 102,75.0,2,150.0,Citizens To ReElect A Riehl Judge,2017-12-13
+Mark,Visnovske,Retired,,5324 Royal Field,175.0,2,350.0,Friends Of Ernie Trakas,2016-10-06
+Mary,Detwiler,,Homemaker,7521 Piney Pointe Dr,1000.0,2,2000.0,Citizens For Steve Stenger,2019-09-13
+Mary,Lauck,CrawfordButz Ins,,6759 Dry Mill Ct,200.0,2,400.0,The Committee To Elect Steve Butz,2019-11-03
+Mary,Ludwig,Na  10001 Fundraiser,,3022 Windsor Point Dr,10.0,2,20.0,Citizens For Ortmann,2015-12-02
+Mary,Monteleone,,Housewife,2902 Royal Seasons Dr,1600.0,2,3200.0,Citizens For Steve Stenger,2014-07-19
+Mary Kay,Bach,Crisis Aid,,2523 Willow Knoll Dr,40.0,2,80.0,Friends Of Cloria Brown,2014-07-30
+Mary P,Wochner,,Retired,5526 Remington Villas Ct,100.0,2,200.0,Schupp For Senate,2018-03-31
+Marybeth,Treiber,Lou Futz,Manager,6100 Arbor Green,1596.0,2,3192.0,Jerome Burke Election Committee,2016-07-21
+Michael,Detwiler,Ranken Jordanpediatric,Board Member,7521 Piney Point Dr,1825.0,2,3650.0,Citizens To Elect Mike Kehoe,2019-09-13
+Michael,Rohrbacker,,Self Employed,4109 Lisieux Ln,85.0,2,170.0,Citizens For Chandler,2014-06-24
+Michael,Tosh,Pnp Local 562,Pipefitter,5091 Clayridge Apt 212,75.0,2,150.0,Doug Beck For State Representative,2019-01-11
+Michael,Yemm,,Fire Fighter,7240 Orchid Meadows Ct,200.0,2,400.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2016-10-27
+Mike,Pourney,Gross  Janes Co,Ceo,5268 Autumnwinds Dr,42.5,2,85.0,Dan Reuter For State Representative,2016-05-19
+Mike,Walter,,Electrician,3061 Arrowhead Point,170.0,2,340.0,Friends Of Dolan,2017-11-20
+Michael,Piazza,Self,Retired,2442 Christopher Winds Ln,250.0,2,500.0,Committee To Elect Jean Pretto,2017-10-18
+Kayla,Murphy,,Homemaker,6851 Bear Creek Dr,80.0,2,160.0,Citizens For Murphy,2018-03-29
+Barbara,Lammert,Retired,,5145 Amberglow Dr,100.0,2,200.0,Murphy For Sheriff Jim,2016-04-21
+Carl,Diveley,Retired,Retired,708 Emil Dr,87.5,2,175.0,Friends Of Dave Diveley,2016-06-13
+Donald,Summers,,Plumbing Teacher,5709 Beefwood Lane,175.0,2,350.0,Beck For Missouri,2020-03-25
+Amy,Schaag,Self,Optometrist,1235 Water Tower Pl,250.0,2,500.0,Missouri Optometric Association Pac,2019-12-27
+Christina,Laury,St Louis Home Health,,7186 Christopher,100.0,2,200.0,Citizens To Elect Sue Allen,2015-11-12
+Charles,Kramer,Retired,Retired,2207 Aileswick Drive,100.0,2,200.0,ElectgregmuellerCom,2016-02-19
+Bob And Denise,Gruchala,Southside Optical,,5129 Mild Dr,80.0,2,160.0,Dan Reuter For State Representative,2016-05-15
+Eileen M,Pacino,Retired,Retired,4119 Metaxa Ln Apt E,175.0,2,350.0,Beck For Missouri,2020-03-24
+Andrew,Bram,Gateway Appraisals,Real Estate Broker,4455 Telegraph Rd Ste 130,125.0,2,250.0,Missouri Realtors Pac Inc,2020-01-03
+Celeste,Rueter,St Louis Aor,Government Affairs Director,5650 Providence Place Dr,350.0,2,700.0,Realtors Political Action Comm Mo,2013-10-14
+David,Gralike,President,Guarantee Electric,311 Bluff View Circle,1500.0,2,3000.0,Committee To Elect Matt Doell,2019-02-01
+Dean,Boeschen,Husch Blackwell Llp,Director Of Operations,3114 Woodbridge Est Drive,125.0,2,250.0,Hanaway For Governor Inc,2016-06-15
+David And Joan,Auer,Requested,Information Requested,7204 Becker Hill Ct,100.0,2,200.0,We Are Missouri,2018-03-19
+Don,Summers,Plumbers  Pipefitters 562,Union Plumber,5709 Beefwood Court,100.0,2,200.0,Beck For Missouri,2019-01-31
+Don,Moushey,Not Employed,Not Employed,2346 Pierwood Drive,30.0,2,60.0,Elad Gross For Missouri,2019-12-31
+Don,Behrmann,Retired,,5459 Charglow Dr,160.0,2,320.0,Committee To ReElect Ed Ryan,2019-02-20
+Dave And Jane,Reuter,Retired,,5904 Oakville Woods Pl,57.5,2,115.0,Dan Reuter For State Representative,2016-05-05
+Bobbie,Dampier,Public Accounting,Cpa,204 Burncoate Dr,37.5,2,75.0,Committee To Elect Ian Mackey,2020-02-09
+Christopher,Godfrey,Sinclair Ford,Requested,2828 Woodbridge Estates Dr,1000.0,2,2000.0,Citizens For Steve Stenger,2016-04-25
+Giosue,Pretto,Retired,Retired,114 West Pottle Avenue,75.0,2,150.0,Beck For Missouri,2019-03-16
+Frederick,Ricker,Suddenlink Comm,Accountant,3142 Kingsridge Manor Drive,100.0,2,200.0,Committee To Elect David G Cheever,2014-09-10
+Charles,Jellinek,Bryan Cave Llp,Attorney,3014 Windsor Point Dr,400.0,2,800.0,Hawley For Missouri,2017-12-14
+Dennis,Meyer,Retired,,4570 Mellowlight Dr,150.0,2,300.0,Friends Of Larry Arnowitz,2018-04-10
+Carol,Turner,,Retired,3551 Pearsonpointe,62.5,2,125.0,Committee To Elect Jennifer Miller,2016-01-29
+Jamey,Murphy,State Of Missouri,Legislative Staff,6851 Bear Creek Drive,106.0,2,212.0,Southern Missouri Conservative Fund,2018-01-29
+Ed,Koeller,Retired,,4227 Chatford,187.5,2,375.0,Doug Beck For State Representative,2016-08-24
+Dan,Jones,Fortune Bank,,3822 Baeumner Dr,250.0,2,500.0,Citizens To Elect Waller,2019-09-28
+Deborah,Zobrist,,Retired,3815 Yaeger,30.0,2,60.0,Friends Of Cloria Brown,2016-07-01
+Craig,Wagner,,Retired,5943 Briarmist Pl,100.0,2,200.0,Citizens To Elect Phil Hendrickson,2014-06-25
+Denny,Jarvis,Retired,,5562 Remington Villas Ct,155.0,2,310.0,Mike Miller For State Rep,2016-06-18
+Cary,Spiegel,,Retired,2735 Willow Ranch Ct,75.0,2,150.0,Friends Of Cloria Brown,2014-07-30
+Harry,Hegger,Retired,,19 Jacqueline Knoll Court,75.0,2,150.0,Lyda Krewson For Mayor,2016-09-12
+Courtney,Gonzales,Self,Optometrist,1235 Water Tower Pl,250.0,2,500.0,Mo OptometricPac,2018-01-02
+James,Markus,,Bricklayer,6819 Wynfield Terrace,280.0,2,560.0,Bac Adc Of Eastern Mo Pac Fund,2019-05-02
+David,Swanson,Corporate Practice Group,,7231 Emerald Bend Dr,100.0,2,200.0,Friends Of Rick Stream,2014-10-07
+Amanda,Jaspering,Baileys Restaurants,Pastry Chef,2725 Otter Creek Ct,5.0,2,10.0,Elad Gross For Missouri,2019-12-15
+Beverly,Odell,Retired,Retired,5164 Kings Park Dr,500.0,2,1000.0,Hirth For Judge,2019-11-04
+Connie,Pisciotta,Retired,Retired,4351 Meadowgreen Est Drive,50.0,2,100.0,Citizens For Charles Huey,2014-07-27
+Gail,Chandler,Retired,,5758 Brlarwood Estates Dr,150.0,2,300.0,Committee To Elect Fred Baumgarth,2019-03-06
+Ramin,Ashrafzadeh,Horner  Shifrin Inc,Engineer,4360 Meadowgreen Estates Dr,100.0,1,100.0,Lyda Krewson For Mayor,2019-02-27
+Ralph,Hennicke,,Retired,2536 Dacia Ln,20.0,1,20.0,Mike Walter For Mo 95Th,2018-04-27
+Jane Koeller,Koeller,Requested,,4227 Chatford,60.99,1,60.99,0002Nd Congressional District Democrats,2016-04-29
+R Kathleen,Mcclain,Retired,,4504 Pegasus,15.0,1,15.0,Citizens For Vicki Lorenz Englund,2014-10-15
+Phyllis,Bodenstein,,Retired,5325 Cherryview Ln,35.0,1,35.0,Friends Of Cloria Brown,2014-06-04
+Phyllis,Alexander,ReMax Results,Real Estate Agent,4525 Ashfield Dr,178.75,1,178.75,Missouri Realtors Pac Inc,2019-06-20
+Philip M,Barry,Retired,,5050 Lampglow Ct,100.0,1,100.0,Committee To Elect Tom Bauer,2019-02-14
+Philip And Joan,Barry,Retired,,5050 Lampglow Ct,75.0,1,75.0,Robert Butler Campaign Fund,2014-09-29
+Philip,Barry,Retired,,5050 Lampglow Ct,25.0,1,25.0,Citizens To Elect Jamilah Nasheed,2013-10-18
+Phil,Stewart,Dierbergs Markets,,5501 Chauveau Dr,5.0,1,5.0,Berg For Change,2016-04-17
+Charles,Mantler,Retired,Retired,2762 Gladwood Dr,50.0,1,50.0,Hirth For Judge,2019-08-02
+Peter,Freihaut,Retired,,6914 Zaharias,175.0,1,175.0,Oakville Democratic Organization,2016-01-27
+Phillip,Sweeney,,Retired,112 River Breeze Way,200.0,1,200.0,Citizens For Steve Stenger,2014-06-16
+Richard,Becher,,Pipefitter,6437 Christopher Rd,50.0,1,50.0,Mike Walter For Mo 95Th,2018-04-27
+Raymond,Droege,Requested,Requested,5535 Southfield Dr,159.0,1,159.0,St Louis County Democratic Central Committee,2018-05-05
+Rik,Boren,Pricewaterhousecoopers Llp,,2842 Christopher Bluffs Ln,200.0,1,200.0,Political Action Committee Of The Missouri Society Of Certified Public Accountants,2017-10-09
+Carolyn,Okeefe,Retired,,2866 Championship,100.0,1,100.0,Good Citizens For Koenen,2016-06-29
+Robert,Farrell,Guarantee Int,Principal,5408 Chardonnay Way Ct,500.0,1,500.0,Committee To Elect Reed,2019-03-05
+Cathi,Delvecchio,Abc 30,,6179 Clifton Oaks,25.0,1,25.0,Committee To Elect Trae Bertrand,2014-01-24
+Robert,Buechel,Retired,,5065 Lampglow,275.0,1,275.0,Oakville Democratic Organization,2020-01-08
+Robert,Brennan Jr,Ssm St Clare Health Center,Obgyn,5376 Ferbet Estates Dr,100.0,1,100.0,Parson For Missouri,2020-03-27
+Robert,Brennan,Requested,Physician,5376 Ferbet Estates Dr,100.0,1,100.0,Schmitt For Missouri,2020-03-20
+Cathy,Harbaugh,,Retired,3611 Coffee Tree Ct,40.0,1,40.0,Friends Of Cloria Brown,2013-11-04
+Rita,Jokuti,SelfEmployed,Photographer,5019 Ivondale,30.0,1,30.0,Tori Behlke For Mehlville Schools,2018-03-04
+Rio,Vitale,Retired,NA,2413 Boardwalk Pl,100.0,1,100.0,Committee To Elect Klupe For Sheriff,2016-01-27
+Rick,Prevallet,Ab Inbev,Operations,4516 Old Baumgartner Rd,18.0,1,18.0,We Are Missouri,2017-11-06
+Raymond,Tretter,,Retired,7519 Shadybridge Dr,100.0,1,100.0,Good Citizens For Koenen,2016-07-14
+Richelle,Flecke,Artist,SelfEmlpoyed,2871 Foxfire Drive,40.0,1,40.0,Citizens To Elect Paul Curtman,2018-01-25
+Richard,Wade,Retired,,5677 Hempline Rd,20.0,1,20.0,Friends Of Rick Stream,2014-10-07
+Charles,Hangge,City Of Saint Louis Fire Dept,,4316 Bordeaux Dr,21.0,1,21.0,St Louis Firefighters Local No 73 Pac,2013-12-27
+Richard,Emnett,NA,,5383 Royalfield Drive,45.0,1,45.0,Citizens To Elect Paul Curtman,2017-12-06
+Richard,Buehler,Unknown,Unknown,5153 Kings Park Dr,50.0,1,50.0,Mike Walter For Mo 95Th,2018-03-15
+Charles,Mertzlufft,SelfEmployed,Fence  Art Sales,4247 Old Baumgartner Rd,100.0,1,100.0,Dan Reuter For State Representative,2016-01-07
+Richard,Ackerman,Mastercard Worldwide,Consultant,5605 Cliff Cave Crossing Dr,150.0,1,150.0,Scott Sifton For Missouri,2017-12-31
+Rich,Ludwig,Na  10001 Fundraiser,,3022 Windsor Point Dr,10.0,1,10.0,Citizens For Ortmann,2015-12-02
+Rebecca,Beach,Retired,,6210 Deer Hollow Ct,500.0,1,500.0,Citizens To Elect Tony Pousosa,2014-03-08
+Peggy,Koenen,Express Scripts,Staff Pharmacist,2417 England Town Rd,200.0,1,200.0,Lavender For State Senate,2019-07-16
+Patrick,Okeefe,,Retired,2866 Championship Blvd,100.0,1,100.0,Oakville Democratic Organization,2019-02-08
+Charles,Rizzo,Self,Attorney,4338 Telegaph,100.0,1,100.0,Committee To ReElect Ray Dickhaner,2014-10-10
+Paul C,Zagarri,Requested,Information Requested,5525 Steele Ridge Rd,300.0,1,300.0,We Are Missouri,2018-01-31
+Christopher,Griffin,Self,Attorney,6151 Pathfinder Dr,100.0,1,100.0,Robert Butler Campaign Fund,2016-06-24
+Nelson,Nix,Retired,Retired,6306 Highland Estates Drive,400.0,1,400.0,Friends To Elect Yates Circuit Judge,2016-10-20
+Christopher,Tracy,Not Required,Not Required,3753 Gumtree Lane,25.0,1,25.0,Wester102,2018-02-09
+Neal,Leturno,Self Employed,Cpa,6000 La Chateau Ct,250.0,1,250.0,Friends Of Ernie Trakas,2016-06-30
+Nancy,Weiners,Retired,,3 Nazereth Lane,25.0,1,25.0,ODonnellformissouriCom,2018-01-21
+Cindy,Pyatt,Goddard School,Self Employed,6040 Telegraph Rd,200.0,1,200.0,Citizens For Marsha Haefner,2013-12-10
+Nancy,Luther,Retired,Retired,5731 White Pine Drive,100.0,1,100.0,Committee To Elect Jean Evans,2016-02-19
+Nancy,Fahey,Washington University,Asst Athletic DirCoach,5657 Banez Dr,150.0,1,150.0,Pasley Puts Kids First,2016-03-15
+Nancy,Dumeyer,NA,Retired,6141Arbor Green,100.0,1,100.0,Friends Of Larry Arnowitz,2019-08-01
+Cindy,Trebus,Retired,,3030 Blue Mountain Dr,25.0,1,25.0,Friends Of Rick Stream,2014-09-22
+Nancy,Berra,,Nurse,6005 Wagon Mount Ct,50.0,1,50.0,Friends Of Dolan,2014-09-10
+Misty,Wehrman,NA,,5053 Clayridge Dr Apt 301,20.0,1,20.0,Friends Of Mark Paul,2014-04-20
+Mindy,Wiethop,It Works,Sale,6046 Bayou Bend Ct,400.0,1,400.0,Committee To Elect Trisha Stefanski,2016-06-11
+Mindy,Heitman,Self,Consultant,4423 Saddleridge Farm Dr,100.0,1,100.0,Lyda Krewson For Mayor,2019-12-01
+Clay,Gilette,Accurso Law Firm,Attorney,5714 Karamar Dr,250.0,1,250.0,Americans For Scott Cernicek,2018-03-13
+Mike And Lesli,Caples,State Farm,Insurance,810 Jeffco Blvd,100.0,1,100.0,Go West For Missouri,2019-07-20
+Mike,Wainz,Self,Driver,6173 Arbor Green Dr,25.0,1,25.0,Clean Missouri,2019-12-11
+Mike,Scalise,Nesher Pharmaceuticals,Director Of Security,3632 Falcon Ridge Ct,100.0,1,100.0,Ripley For Mo Integrity,2018-03-29
+Mike,Pupillo,Charter,Tech,3640 Lemay Wood Dr,10.0,1,10.0,Angelica Earl For Missouri,2018-03-16
+Mike,Obrien,St Louis Community Credit Union,Manager,3084 Woodbridge Creek Dr,50.0,1,50.0,Citizens For Gretchen Bangert,2017-11-08
+Mike,Grady,Pnp Local 562,Business Agent,6175 Clifton Oaks Place,20.0,1,20.0,Doug Beck For State Representative,2016-08-24
+Mike,Chenot,Usps,Letter Carrier,5520 Southfield Dr,100.0,1,100.0,Doug Beck For State Representative,2016-09-24
+Craig,Wiethop,Self Employed,,2746 Storm Lake Dr,100.0,1,100.0,Mike Walter For Mo 95Th,2018-04-27
+Cynthia,Fendler,Fendler Flowers,Owner,331 Susan Rd,250.0,1,250.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2016-05-13
+Cynthia,Grieve,,Retired,4307 Meadowgreen Estates,80.0,1,80.0,Committee To Elect David Gregory,2016-08-08
+Nicholas,Fahs,,Fireman,7611 Fine Oaks Pl,50.0,1,50.0,Mike Walter For Mo 95Th,2018-04-27
+Nicholas,Schott,Ibew,Editor,5015 Nicholas Ridge Dr,20.0,1,20.0,Friends To Elect Sylvester Taylor,2014-05-24
+Christoper,Carril,Maritz,,1 Norman Grove Court,100.0,1,100.0,ODonnellformissouriCom,2017-11-06
+Patricia,Willett,Retired,Retired,6508 River Farm Drive,2650.0,1,2650.0,Citizens To Elect Mike Kehoe,2019-09-17
+Paul And Patricia,Nuckolls,Not Employed,Not Employed,6910 Wellsford Ct,50.0,1,50.0,Nicole Galloway For Missouri,2019-12-20
+Paul  Elke,Koch,,Uncertain,6218 Deer Hollow,250.0,1,250.0,Citizens For Joy Krieger,2016-05-17
+Paul,Sherod,Veterans Administration,Administration,2764 Blackforest Drive,50.0,1,50.0,Michelle Sherod For St Louis,2019-09-16
+Paul,Robinson,,Retired,5105 Butler Hill Ct,50.0,1,50.0,Friends Of Cloria Brown,2014-02-13
+Paul,Kleissle,Retired,,6171 Pathfinder,50.0,1,50.0,Joe Vollmer For Alderman,2019-02-19
+Patty,Steelmen,Dierbergs Markets,,602 Cliff Cave Rd,5.0,1,5.0,Berg For Change,2016-04-17
+Patty,Mankus,,Unknown,5710 Hiddenstone,25.0,1,25.0,Mike Walter For Mo 95Th,2018-05-02
+Carolyn,Enright,,Retired,4301 Martyridge Ct,30.0,1,30.0,Friends Of Cloria Brown,2016-09-14
+Charles,Swoboda,Requested,Information Requested,7041 Stony Ridge Rd,10.0,1,10.0,We Are Missouri,2017-10-25
+Chris,Hoell,US Attorneyâ€™S Office,Ausa,6750 Rougemount Branch Drive,100.0,1,100.0,Elad Gross For Missouri,2019-12-24
+Patricia A,Deschler,Union Service Truck Co,,7012 Willow Stream Ct,500.0,1,500.0,Friends Of Gregory Fx Daly,2018-01-31
+Patricia,Teach,,Business Owner,6085 Lemay Ferry Rd,1000.0,1,1000.0,Citizens For Steve Stenger,2013-12-23
+Christine,Mehigh,Mehlville School District,Teacher,3042 Cambridge Pointe Dr,25.0,1,25.0,Nicole Galloway For Missouri,2019-12-19
+Patricia,Stamatakis,,Retired,3638 Rustic Meadow Dr,140.0,1,140.0,Friends Of Renee Reuter,2016-05-26
+Chris,Immken,Windsor C1,,5410 Charglow Ct,40.0,1,40.0,Friends Of Shaul,2014-02-07
+Patricia,Dreschler,Union Service Truck Co Inc Dba Union Service Parking,President,7012 Willow Stream Ct,300.0,1,300.0,Coatar For St Louis,2020-03-09
+Chris,Van Rhein,Fox C6,Educator,5546 Aberdour Lane,20.0,1,20.0,Yes On S,2019-03-29
+Pat,Stamatakis,,Retired,3638 Rustic Meadow,50.0,1,50.0,Friends Of Renee Reuter,2016-09-17
+Pat,Deschler,Union Service Parking,President,7012 Willow Stream Ct,250.0,1,250.0,Coatar For St Louis,2018-01-24
+Chrissy,Kaiser,Xist Fitness,Customer Service,5619 Winter Garden Court,50.0,1,50.0,Tori Behlke For Mehlville Schools,2018-03-20
+Pam,Amsler,Retired,Retired,5031 Lowndes Dr,25.0,1,25.0,Clean Missouri,2018-06-22
+P  J,Sweeney,None,Retired,112 River Breeze Way,500.0,1,500.0,Hanaway For Governor Inc,2016-06-28
+P,Sweeney,None,Not Employed,112 River Breeze Way,500.0,1,500.0,Koster For Missouri,2016-06-28
+Norbert,Glassl,SelfEmployed,Attorney,3590 Summerlyn Drive,250.0,1,250.0,ReElect Judge Scott Bernstein,2014-10-14
+Robert,Hartmann,Requested,Information Requested,5809 Kerth Rd,18.0,1,18.0,We Are Missouri,2017-11-27
+Robert And Jane,Mihalevich,,Retired,5513 Rolling Meadows,150.0,1,150.0,Vote For Mihalevich,2019-08-27
+Robert,Lanfer,Retired,Retired,5699 Chalet Forest Ct,15.0,1,15.0,Hawley For Missouri,2016-10-11
+Teresa,Barnes,Coalition For Pulmonary Fibrosis,,338 Greycliff Bluff Dr,100.0,1,100.0,Citizens For Vicki Lorenz Englund,2014-10-01
+Anna,Aiazzi,South Country Dermotological Care,Nurse,348 Magoffin Trails Court,100.0,1,100.0,Franklin For Webster,2018-02-07
+Arnold,Arconati,Retired Sub Teacher,,7263 Spring Water Ct,20.0,1,20.0,Friends Of Rick Stream,2014-09-26
+Arnold,Pereira,Retired,,3039 Caprock Ct,100.0,1,100.0,Friends Of Rick Stream,2014-10-27
+Audie,Faulstich,Association Health,Insurance Broker,7741 Becker Rd,250.0,1,250.0,Friends Of Ernie Trakas,2019-06-25
+Barb,Callahan,Southwestern Bell,IT,4326 Green Grove,200.0,1,200.0,Oakville Democratic Organization,2014-02-04
+Thomas,Maurer,,Retired,5347 Mild Dr,40.0,1,40.0,America First Mo Pac,2018-05-18
+Barb,Felts,Retired,Retired,5739 White Pine Dr,20.0,1,20.0,Friends Of Martha Stevens,2016-06-29
+Barb,Marquez,Retired,,5325 Casa Royale,50.0,1,50.0,Dan Reuter For State Representative,2016-01-08
+Barbara,Callahan,Att,Clerical,4326 Green Grove Ct,200.0,1,200.0,Oakville Democratic Organization,2016-02-13
+Terry,Blunt,Thompson Coburn Llp,,5040 Flintwood,30.0,1,30.0,Citizens For Vicki Lorenz Englund,2014-09-18
+Barbara,Felts,Ymca,Instructor,5739 White Pine Drive,25.0,1,25.0,Stacey Newman For State Representative,2013-10-08
+Terri,Blund,Thompson  Colburn,,5040 Flintwood,275.0,1,275.0,Oakville Democratic Organization,2016-01-06
+Ted,Spiro,Retired,,5640 Cliff Cave Crossint,25.0,1,25.0,Good Citizens For Koenen,2016-11-02
+Carolyn,Beseda,Faith Lutheran Church,,306 Greycliff Bluff Dr,40.0,1,40.0,Friends Of Cloria Brown,2013-11-04
+Tamara,Gleason,Neighbors Credit Union,Cu Employee,13389 East Lane,2.0,1,2.0,Credit Union Political Action Committee Of Missouri,2015-12-22
+Belinda,Schmieg,Sr Smith,Salesperson,2909 Bee Tree Lane,100.0,1,100.0,Patterson For Oakville,2018-03-22
+Sylvia,Cathers,,Retired,5456 Milburn Road,300.0,1,300.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2016-03-02
+Susie,Kaznica,First StepsMicrosoft,CoordinatorSales,7591 Shadybridge,200.0,1,200.0,Tori Behlke For Mehlville Schools,2018-03-06
+Ben,Venturella,Retired,,2414 Whitshire,10.0,1,10.0,Friends Of Rick Stream,2014-09-30
+Benjamin,Kettler,Retired,,10 Grimsley Station Bluff Ct,25.0,1,25.0,Friends Of Rick Stream,2014-10-02
+Susan,Schoemehl,Retired,,2629 Bluff Ridge,100.0,1,100.0,Mike Walter For Mo 95Th,2018-03-15
+Bernard,Ryan Jr,Mc Dean,Electrician,5738 Wickershire Lane,25.0,1,25.0,Mike Walter For Mo 95Th,2018-03-15
+Bernie,Wilde,,Retired,3533 Swan Circle South,300.0,1,300.0,Citizens For Bob Boyer,2014-10-16
+Susan,Kearbey,Energizer,H R,2700 Towne Crest Dr,50.0,1,50.0,Citizens For Tom Smith,2014-06-27
+Susan,Freidmeyer,Mercy Hospital,,3054 Arrowhead Point Dr,20.0,1,20.0,Mike Walter For Mo 95Th,2018-04-27
+Bernita,Marquardt Wilde,Retired,,3533 Swan Circle South,100.0,1,100.0,Committee To Elect Jim Chellew,2018-03-29
+Ann,Plummer,,Realator,3585 Lakeview Heights,200.0,1,200.0,Mike Walter For Mo 95Th,2018-04-08
+Timothy,Thomas,,Pipefitter,6411 Brookfield Ct Dr,25.0,1,25.0,Mike Walter For Mo 95Th,2018-04-27
+Angie,Pohlman,Dierbergs Market,,5732 Hempline,10.0,1,10.0,Friends Of Mark Paul,2014-05-26
+Andrew,Tissier,Midwest Petrolium,Midwest Petrolium,5859 Rabbit Run Drive,20.0,1,20.0,Citizens To Elect Greg Pugh,2016-06-11
+Winfred,Bowmah,Retired,,7269 Menowor,10.0,1,10.0,Friends Of Rick Stream,2014-09-30
+Al,Larson,Midwest Advertising,Sales,4800 Prairie View Ct,35.0,1,35.0,Dan Reuter For State Representative,2016-05-17
+William R,Etheridge,SelfEmployed,Security,5503 Windford Dr,250.0,1,250.0,Doug Libla For Senate,2014-06-06
+Alan,Gann,Retired,,165 East Pottle,100.0,1,100.0,ODonnellformissouriCom,2018-02-06
+William And Debora,Zobrist,Lakenan Insurance,,3815 Yaeger Rd,40.0,1,40.0,Committee To Elect Randy Jotte,2016-06-29
+William,Volk,Retired,,3477 Brookstone View Dr,30.0,1,30.0,Committee To Elect Randy Jotte,2016-09-27
+William,Sneed,Retired,,6331 Christopher Winds Ct,100.0,1,100.0,Dan Reuter For State Representative,2016-01-08
+Albert,Chenot,Usps,Letter Carrier,7253 Emerald Forest,100.0,1,100.0,Doug Beck For State Representative,2016-08-26
+Alicia,Maciocia,Not Employed,Not Employed,2738 Cherry Bud Ct,18.0,1,18.0,We Are Missouri,2018-01-27
+William,Eydman,,Retired,6152 Arbor Green Dr,50.0,1,50.0,Friends Of Cloria Brown,2014-02-13
+Allison,Lewis,Elaine Rosi Academy,Teacher,3987 Camelot Estates,10.0,1,10.0,Hanaway For Governor,2014-11-25
+Williaims J,Cocos,Cocos Plumbing,Plumber,2900 Erb Rd,250.0,1,250.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2016-07-16
+Amber,Burns,Bjc,Radiologic Tech,29 Kassebaum Lane Apt 303,25.0,1,25.0,District No 9 Pac,2019-03-22
+Amy,Dugal,Affinia Healthcare,Rn Bsn,3415 Falcon View Ln,5.0,1,5.0,Elad Gross For Missouri,2020-02-28
+Walter,Geiser,,Retired,4703 Pine Glen Ct,20.0,1,20.0,Citizens For Vicki Lorenz Englund,2016-01-26
+Virginia,Kerschen,Retired,,4525 Harvshire Ct,60.0,1,60.0,Committee To Elect Randy Jotte,2016-09-27
+Vinke,Palamand,,Engineer,5385 Royal Hills Ct,100.0,1,100.0,Mike Walter For Mo 95Th,2018-04-27
+Amy,Gallagher,SelfEmployed,Psychologist,3043 Flametree,25.0,1,25.0,Tori Behlke For Mehlville Schools,2018-03-19
+Victor,Wendl,Wendl Financial,,310 Forder Road,150.0,1,150.0,Citizens For Schwadron,2020-03-27
+Andrea,Michalak,Lindbergh Schools,Early Childhood,5423 Yaeger Court,40.0,1,40.0,Tori Behlke For Mehlville Schools,2018-03-21
+Andrea,Nye,,Homemaker,2842 Foxfire Dr,1000.0,1,1000.0,Citizens For Steve Stenger,2014-06-17
+Treiber,Thomas,Lou Futz,Manager,6100 Arbor Green,100.0,1,100.0,Jerome Burke Election Committee,2016-05-10
+Tracy,Christopher,Self,Retired,3753 Gumtree Lane,20.0,1,20.0,Wester102,2017-10-08
+Andrew,DAngelo,Revolve Construction,Owner,7601 River Walk Court,30.0,1,30.0,Patterson For Oakville,2018-03-23
+Tina,Lansford,Feed My People,Accountant,2861 Woodbriegde Est,23.7,1,23.7,Bennie Cook For State Representative,2020-02-16
+Sue,Schomehl,Retired,,2629 Bluff Ridge Dr,175.0,1,175.0,Oakville Democratic Organization,2014-01-14
+Steven,Trebus,Retired,,3030 Blue Mountain Dr,50.0,1,50.0,Friends Of Rick Stream,2014-10-23
+Steven,Schmalfeld,Bradford And Galt,Senior Software Developer,6805 Kimmswick Ct,150.0,1,150.0,Friends Of Trish Gunby,2019-10-26
+Samuel,Reed,Anchor Packaging,Edi Coordinator,7300 Summertime Court,5.0,1,5.0,Clean Missouri,2019-04-24
+Brian,Haign,Retired,,5236 Amberglow Dr,50.0,1,50.0,Hagin For Missouri,2018-06-19
+Sally,Gergeson,None,Retired,4607 Forest Valley Dr,100.0,1,100.0,Hanaway For Governor Inc,2016-05-17
+Sally,Denton,,Retired,7004 Green Tee Ct Apt B,100.0,1,100.0,Mike Walter For Mo 95Th,2018-04-27
+Brian,Mckenney,Lindbergh Schools,Assistant Superintendent,5921 Woodbrook Drive,100.0,1,100.0,Yes For Prop R,2019-02-27
+Brian,Rasch,Self,Engineer,4449 Kerth Rd,50.0,1,50.0,Appelbaum For Judge,2014-05-09
+Bryan,Crawford,Retired,,4410 Baumgartner,1000.0,1,1000.0,Friends Of Ernie Trakas,2016-08-31
+Roy And Bernie,Wilde,,Retired,3533 Swan Circle South,150.0,1,150.0,Citizens For Bob Boyer,2014-09-13
+Byron,Faust,Retired,,5043 Flamewood Dr,25.0,1,25.0,Citizens For Murphy,2018-03-28
+Rosmarie,Garcia,,Unknown,3730 White Bark Ct,25.0,1,25.0,Mike Walter For Mo 95Th,2018-04-27
+Rosemary,Scoular,SelfEmployed,Tupperware,4345 New Colony Estates Dr,126.0,1,126.0,Cass County Republican Central Committee,2019-03-09
+Rose,Judd,Retired,,2569 Bluffwood,50.0,1,50.0,Committee To Elect Randy Jotte,2016-09-27
+C,Gleason,Not Employed,Not Employed,340 Susan Rd,10.0,1,10.0,Nicole Galloway For Missouri,2019-12-02
+Ronald,Swierk Jr,Ricoh Usa,Senior Graphics Systems Specialist 2,5556 Providence Place Dr,2000.0,1,2000.0,Citizens For Tony Manansala,2017-12-30
+Candance,Hurd,SelfEmployed,Entrepreneur,5064 Clayridge Drive,25.0,1,25.0,Committee To Elect Reign Harris,2018-05-25
+Ronald,Gagnepain,Retired,,127 Tori Pines Dr,50.0,1,50.0,Friends Of Rick Stream,2014-10-15
+Carl,Gioia,Emhart Glass,Engineer,5515 Dantonaire Pl,25.0,1,25.0,Hawley For Missouri,2016-02-08
+Carl H,Hendrickson,,Retired,4661 Markton Drive,225.0,1,225.0,Tesson Ferry Township Republican Club,2019-02-14
+Ron,Beach,Physician And Lawyer,,6210 Deer Hollow Ct,20.0,1,20.0,Friends Of Rick Stream,2014-09-30
+Carol,Friehaut,,Unknown,6914 Zaharias Ct,105.93,1,105.93,Mike Walter For Mo 95Th,2018-03-15
+Carol,Hendrickson,Retired,,4661 Markton Dr,50.0,1,50.0,Committee To Elect David Gregory,2016-10-17
+Cynthia,Trebus,,Sub Teacher,3030 Blue Mountain Dr,25.0,1,25.0,Friends Of Cloria Brown,2014-10-11
+Robert A,Farrell,Guarantee Interiors Inc,,5408 Chardonnay Way Ct,1000.0,1,1000.0,Friends Of Gregory Fx Daly,2018-02-05
+Carol,Pennycuick,Retired,,736 Forder Crossing Ct,100.0,1,100.0,Friends Of Rick Stream,2014-10-06
+Robert,Sihnhold,Retired,,5447 Hollow Oak Ct,100.0,1,100.0,Dan Reuter For State Representative,2016-08-01
+Robert,Pugh Jr,Mallinckrodt,Business Analysis,4916 Forder Oaks,100.0,1,100.0,Citizens To Elect Greg Pugh,2016-06-11
+Brian,Duepner,Ibew Local 1,Ibew Local 1,5902 Cedar Pointe Ct,20.0,1,20.0,We Are Missouri,2017-11-28
+Sandra,Alims,Retired,,17 Idecka Ct,125.0,1,125.0,New Approach Missouri,2016-03-14
+Steven,Schepker,Century Fire Sprinklers Inc,,2586 Trentwood Dr,1000.0,1,1000.0,Citizens For Steve Stenger,2017-12-29
+Sandra,Castaldi,Saint Louis Public Schools,,4422 Saddleridge Farm Dr,200.0,1,200.0,Citizens For Steve Stenger,2014-06-28
+Bill,Brennell,Iron Workers Local 396,President,7517 Summerfield Oaks Court,150.0,1,150.0,Missourians For Koster,2014-07-20
+Steven,Adams,Slu,Manager,6220 Bluff Forest Dr,50.0,1,50.0,Friends Of Rick Stream,2014-09-30
+Steve  Laura,Nuebling,Retired,,7205 Becker Rd,200.0,1,200.0,Citizens For Marsha Haefner,2017-11-28
+Steve,Schafermeyer,Malones Restaurant,Owner,5419 Chatfield Dr,100.0,1,100.0,Lyda Krewson For Mayor,2019-02-05
+Bill,Zobrist,Missouri Right To Life,Fund Raiser,3815 Yaeger Rd,500.0,1,500.0,Missouri Right To Life Political Action Committee,2014-07-10
+Solomon,Noguera,,Physician,4987 Southridge Park Dr,100.0,1,100.0,Mo Academy Of Family Physicians Political Action Committee,2019-10-17
+Snehal,Gandhi,,Physician,256 Greycliff Bluff Drive,250.0,1,250.0,ODonnellformissouriCom,2018-06-30
+Shirley And Ed,Rogers,Retired,,1533 Nadine Dr,250.0,1,250.0,Citizens For Mary Pat Carl,2016-02-03
+Birdie,Wilsheusen,Retired,,2171 Chatport Rd,30.0,1,30.0,Committee To Elect Randy Jotte,2016-10-27
+Shirley,Link,Retired,Retired,5027 Barbagallo Dr,25.0,1,25.0,Ashcroft For Missouri,2016-07-19
+Shirley,Gregory,,Retired,5132 Crosswood Dr,100.0,1,100.0,Committee To Elect David Gregory,2015-10-19
+Shirley,Graue,CrawfordButz Ins,Account Manager,2514 Black Forest,100.0,1,100.0,The Committee To Elect Steve Butz,2019-11-03
+Birdie,Wilshusen,,Retired,2171 Chatport,60.0,1,60.0,Mcdonough For Judge,2018-03-31
+Bob,Lindsley,Retired,Retired,1182 Jere Lane,25.0,1,25.0,Committee To Elect Mike Evans,2014-05-14
+Bob  Pamela,Ford,Retired,,2687 Sanders,200.0,1,200.0,Treece For Mayor,2019-01-28
+Sherrie,Gavan,Npc International,Manager,2838 Innsbruck Dr,100.0,1,100.0,Committee To Elect Dennis Mcdonald,2018-03-12
+Shelly,Burris,Retired,,7353 Terri Robyn Dr,10.0,1,10.0,Pitman For Missouri,2019-10-02
+Bob And Linda,Buechel,Retired,Retired,5065 Lampglow Ct,100.0,1,100.0,Beck For Missouri,2020-02-17
+Bob R,Ford,Retired,Retired,2687 Sanders,100.0,1,100.0,Beck For Missouri,2020-03-12
+Bradley,Thompson,City Of Saint Louis Fire Dept,,4400 Whitmeere Ct,21.0,1,21.0,St Louis Firefighters Local No 73 Pac,2013-12-27
+Scott,Kristoff,,Gas Worker,619 Tanya Ct,320.0,1,320.0,United Steel Workers Local 116 Gasworkers Voluntary Pac,2014-09-12
+Brandon,Meyer,Deloitte,Tax Consultant,7214 Stone Pointe Ct,100.0,1,100.0,Committee To Elect Bishop Davidson,2020-02-29
+Sandra,Paunan Castaldi,,Homemaker,4422 Saddleridge Farm Dr,200.0,1,200.0,Citizens For Steve Stenger,2018-06-21
+Brenda,Carroll,Wallis Company,,4520 Old Baumgartner,20.0,1,20.0,Friends Of Shaul,2014-02-07
+Brennan,Connor,Ernst  Young,Attorney,3650 Coffee Tree Court,50.0,1,50.0,Citizens For Hamacher,2016-03-15
+Michele,Piazza,,Doggie Day Care Owner,124 West Pottle Ave,250.0,1,250.0,Friends Of Jean Pretto For Mehlville School District Board Of Education,2014-03-06
+Michael,Schaeffer,Retired,,6516 River Farm Rd,50.0,1,50.0,Friends Of Rick Stream,2014-10-17
+Micheal,Walsh,Eagle Bank,Bank Executive,8806 Wynfield Terrace,500.0,1,500.0,Roberts For St Louis,2016-01-21
+Kathy,Mcclain,Retired,,4504 Pegasus Dr,35.0,1,35.0,Citizens For Vicki Lorenz Englund,2014-09-13
+Kathy,Berberich,,Tupperware Sales,115 E Pottle,50.0,1,50.0,Friends For Paul Freese,2014-03-04
+Kathryn,Polizzi,Slu,Ga,2726 Stonespring Dr,25.0,1,25.0,St Louis Young Democrats,2019-10-12
+Fred,Rinck,Retired,Retired,5188 Amberglow Dr,5.0,1,5.0,Hawley For Missouri,2016-09-21
+Kathie,Wheeler,Csc,Programmer,5760 Chatport,25.0,1,25.0,No Mo Sales Tax,2014-08-11
+Kari,Mcnulty,SelfEmployed,Actuary,2956 Yaeger Road,25.0,1,25.0,Tori Behlke For Mehlville Schools,2018-03-19
+Gary,Lanasa,,Retired,106 W Pottle Ave,200.0,1,200.0,Committee To Elect Jean Pretto,2020-02-01
+Karen,Schuh,Retired,,490 Pine Court,100.0,1,100.0,Friends Of Ej Fleischmann,2016-01-30
+George,Oranski,American Water,Engineer,2223 England Town Rd,100.0,1,100.0,Friends Of Rick Stream,2014-10-02
+Karen,Chinnici,,Office Worker,5030 Kennelwood Drive,50.0,1,50.0,Citizens For Patricia Pat Yaeger 6Th District County Council,2016-03-26
+Karen,Ahlemeyer,Unknown,,19 Kings Crossing Court,120.0,1,120.0,Republican Central Committee Of St Louis County,2020-01-29
+Justin,Cardwell,Roberts Wooten And Zimmer,Attorney,2818 Queen Bee Ln,50.0,1,50.0,Maggie Nurrenbern For Missouri,2020-01-31
+Julie,Poston,Frontenac Surgery Center,Rn,6736 Black Water Drive,50.0,1,50.0,Patterson For Oakville,2018-03-29
+Judy,Whiite,Retired,Retired,7278 Meramar Dr,15.0,1,15.0,Hawley For Missouri,2015-11-30
+Judy,Sieckhaus,None,Retired,9 Grimsley Station Bluff,100.0,1,100.0,Jerome Burke Election Committee,2016-05-10
+George,Schweitzer,Centene,Epidemiologist,5862 Stonehorse Ct,100.0,1,100.0,Citizens For Anne Schweitzer,2019-09-29
+Georgine,Davis,,Retired,5339 Crowndon Dr,100.0,1,100.0,Dan Reuter For State Representative,2016-06-14
+Gerd,Goetz,Retired,,5495 Fireleaf Dr,25.0,1,25.0,The Committee To Elect Steve Butz,2019-11-03
+Judith,Smart,Retired,Retired,6045 Glennaire Dr,100.0,1,100.0,Nicole Galloway For Missouri,2020-01-22
+Juan,Quinonez,Ibew,Electrician,5855 Mango Dr,240.0,1,240.0,Friends To Elect Sylvester Taylor,2014-05-28
+Jt,Gagnepain,Retired,,127 Tori Pines Dr,150.0,1,150.0,Missourians For Peter Kinder,2016-05-05
+Gina,Pourney,,Retired,5268 Autumnwinds Dr,50.0,1,50.0,Friends Of Cloria Brown,2016-08-09
+Josephine,Sweeney,None,Retired,112 River Breeze Way,200.0,1,200.0,Koster For Missouri,2016-08-27
+Joseph,Pope,Self,Consultant,3012 Oakville Woods Ct,200.0,1,200.0,Greitens For Missouri,2016-05-03
+Glen,Henson,Requested,,2727 Yaeger Road,25.0,1,25.0,Wieland Now,2017-12-04
+Glenn,Brady,Pricewaterhousecoopers Llp,,341 Greycliff Bluff Dr,200.0,1,200.0,Political Action Committee Of The Missouri Society Of Certified Public Accountants,2017-10-17
+Kathy,Kuhlmann,Self,Accountatnt,2740 Cathedral Dr,20.0,1,20.0,Friends Of Rick Stream,2014-09-18
+Kathy,Myers,SelfEmployed,,2642 Black Forest,60.0,1,60.0,Peter Merideth For Mo Progress,2015-12-29
+Larry L,Degenhardt,Self,Cpa,2850 Championship Blvd,100.0,1,100.0,Schmitt For Missouri,2016-10-15
+Katy,Eardley,None,,3513 Cabernet Way Ct,150.0,1,150.0,Citizens For Murphy,2018-03-23
+Larry,Liszewski,,Unemployed,4832 Mehlbrook,50.0,1,50.0,Citizens For Ortmann,2013-12-06
+Larry,Gassner,Retired,Retired,501 Susan Rd,50.0,1,50.0,Friends Of Mark Paul,2014-03-31
+Ed And Karen,Bellamy,Gear Marketing Inc,Salesman,4560 Zamora Dr,50.0,1,50.0,Dan Reuter For State Representative,2016-04-22
+Larry,Degenhardt,SelfEmployed,Accountant,2850 Champion Blvd,1000.0,1,1000.0,Friends Of Tom Unger,2020-03-08
+Landon,Sklebar,Not Employed,Not Employed,2885 Yaeger Rd,18.0,1,18.0,We Are Missouri,2018-02-22
+Edith,Kellermann,Retired,Retired,3901 Butler Hill Rd,20.0,1,20.0,Hawley For Missouri,2016-07-05
+Konstantinos,Botonis,G And S Realty Llc,,3228 Ridgetop View Dr,500.0,1,500.0,Citizens For Steve Stenger,2014-01-24
+Elayne,Fincannon,Retired,,5049 Reynosa,100.0,1,100.0,Peters For State Rep,2014-10-01
+Ellen,Pacino,Requested,Requested,4119 Metaxa Lane,50.0,1,50.0,St Louis County Democratic Central Committee,2019-04-22
+Kim,Scronce,Retired,,4377 Hawkins Glen Way,20.0,1,20.0,Triplett For Mo House,2018-05-30
+Kim,Foster,Mehlville School District,Teacher,2343 Hempline Ct,50.0,1,50.0,Nicole Galloway For Missouri,2019-12-17
+Kevin,Sharp,Self Employed,Construction,2963 Manly Drive,50.0,1,50.0,Patterson For Oakville,2018-03-22
+Ellen,Stretch,Retired,Retired,3550 Burgundy Way Drive,25.0,1,25.0,Franklin For Webster,2018-01-26
+Eric,Arenz,,Retired,5047 Lomar Ln,50.0,1,50.0,Mike Walter For Mo 95Th,2018-04-27
+Ermin,Kadic,Diamond Trucking,,2863 Flintwood Drive,250.0,1,250.0,Citizens For Vernon Betts,2020-03-12
+Kevin,Darnold,St Pauls Ucc,Social Media Ministries,3013 Sugar Mill Ct,2.0,1,2.0,Megan Green For St Louis,2020-03-11
+Ernest,Trakas,Mickes Goldman OToole Llc,Attorney,3900,60.0,1,60.0,Committee To Elect Randy Jotte,2016-09-27
+Ernie And Lori,Trakas,Saint Louis County,Council Person,3900 Butler Hill Road,20.0,1,20.0,Tesson Ferry Township Republican Club,2017-12-09
+Kenneth,Connolly,Booz Allen,Consultant,2379 Cripple Creek Dr,500.0,1,500.0,Citizens To Elect Tony Pousosa,2013-10-31
+Kelly,Wason,Fox C6,Educator,4817 Arevalb Drive,15.0,1,15.0,Yes On S,2019-03-29
+Kelly,Kuhlmann,Construction,,4919 Karington Place Drive,30.0,1,30.0,Citizens For Murphy,2018-02-04
+Kelly,Kennedy,Retired,Retired,5027 Barbagallo Dr,50.0,1,50.0,Ashcroft For Missouri,2016-07-19
+Kelley,Brandt,Rock Show Academy,Owner,5276 Bloomfield Dr,150.0,1,150.0,Missourians For John Brunner,2016-08-02
+Francis,Buehler,Retired,,5253 Bryncastle Pl,100.0,1,100.0,Mike Walter For Mo 95Th,2018-03-15
+Frank,Michaels,Electrician,Electrical Worker,133 Staehle Ct,10.0,1,10.0,Friends To Elect Sylvester Taylor,2014-06-24
+Joseph,Maddock,Abig Insurance,President,2129 Chatport Rd,100.0,1,100.0,Jp Johnson For Mo,2018-04-30
+Joseph,Kopff,,Retired,3071 Crystal Lake Dr,30.0,1,30.0,Mike Walter For Mo 95Th,2018-04-27
+Joseph,Devoto,,Salesman,5826 Pierwood,50.0,1,50.0,Friends Of Dolan,2014-09-10
+Grace,Kuhn,Warehouse Of Fixture,Marketer,2701 Irondale Dr,50.0,1,50.0,Contreras For Treasurer,2016-06-02
+Joe,Patterson,St Louis City Police,,6723 Black Water Dr,125.93,1,125.93,Republican Central Committee Of St Louis County,2018-02-23
+Joe,Kruchowski,St Louis County,Highway Manager,6839 Grove Springs Ct,50.0,1,50.0,Peters For State Rep,2014-05-13
+Herman,Unger,Costco,,2955 Crossgate,20.0,1,20.0,Friends Of Mark Paul,2014-06-27
+Joe,Garavaglia,NA,,4352 Honeydew Ln,45.0,1,45.0,Citizens To Elect Paul Curtman,2017-12-08
+Joan M,Barry,Retired,Former Mo House Rep,5050 Lampglow Ct,100.0,1,100.0,Beck For Missouri,2020-03-26
+Joan And Philip,Barry,Retired,,5050 Lampglow Ct,75.0,1,75.0,Murray For Missouri,2015-12-16
+Joan  Philip,Barry,Retired,Retired,5050 Lampglow Ct,75.0,1,75.0,Sarah Unsicker For State Representative,2015-12-16
+Isabel,Diveley,Retired,,708 Emil Dr,25.0,1,25.0,Friends Of Ej Fleischmann,2016-02-29
+Jacob,AndersonLittle,Standpoint Public Affairs,Publicity Assistant,4967 Bacardi Ln Apt F,10.0,1,10.0,Citizens For Vicki Lorenz Englund,2020-02-12
+Jim,Kelly,Information,Requested,7317 Stream Valley Court,100.0,1,100.0,New Approach Missouri,2016-01-21
+Jim,Bundren,Not Employed,,260 Greycliff Bluff Dr,25.0,1,25.0,Brian Wingbermuehle For Missouri,2019-12-27
+Jacqueline,Julius,Retired,,3549 Lakeview Heights Dr,50.0,1,50.0,Murphy For Sheriff Jim,2014-04-20
+Jerry,Geen,Fortune Bank,Executive Vice President,3536 Lakeview Heights Drive,100.0,1,100.0,Citizens To Elect Waller,2014-10-15
+James,Enrights,Retired,,4301 Martyridge Ct,50.0,1,50.0,Friends Of Rick Stream,2014-09-11
+James,Hafner Jr,Retired,Retired,138 Pioneer,100.0,1,100.0,Missourians For John Brunner,2016-07-21
+James,Mattingly,Retired,,4466 Forder Ridge,100.0,1,100.0,Dan Reuter For State Representative,2016-07-27
+James,Mcclung,Midwest Rv,Sales,7175 Tournament Drive,315.0,1,315.0,Dave Marshak Election Committee,2019-03-22
+James,Suda,AtT,,3038 Blue Mountain Dr,25.0,1,25.0,Mcdonough For Judge,2018-03-10
+James A,Michaels,Corrigan Brothers,,3050 Cambridge Pointe Dr,500.0,1,500.0,Friends Of Gregory Fx Daly,2018-02-03
+Jeffrey,Buckley,Retired,,2515 River Winds Court,100.0,1,100.0,ODonnellformissouriCom,2018-02-08
+Jeffery,Crawford,Ross  Baruzzini,Vp,6195 Newton Terr Dr,500.0,1,500.0,Committee For The Future,2018-03-22
+Jeaniene,Dickey,Thompson  Colburn Llp,ParaLegal,5724 Westcliffe Dr,175.0,1,175.0,Oakville Democratic Organization,2014-01-29
+Jean And Joe,Pretto,Retired,Retired,114 W Pottle Ave,50.0,1,50.0,Elad Gross For Missouri,2019-04-03
+James And Jill,Vaughn,Retired,,3518 Scenic Circle Dr,40.0,1,40.0,Friends Of Daniel Bogle,2016-10-01
+Jason,Candrl,,Sprinkler Fitter,3129 Cambridge Pointe Dr,100.0,1,100.0,Friends Of Dolan,2017-11-20
+Joe,Poelzl,Pgav,Architect,4574 Thicket Dr,100.0,1,100.0,Lyda Krewson For Mayor,2016-09-30
+Joe,Pretto,Retired,Retired,114 West Pottle Avenue,20.0,1,20.0,Beck For Missouri,2019-09-26
+Joe,Steiger,St Louis Metropolitan Police,Police Officer,2854 Championship Blvd,125.0,1,125.0,Committee To Elect Jeff Roorda,2014-08-30
+Gregory,Brighton,Kb Vapors,Vice President,3021 Kell Ln,50.0,1,50.0,New Approach Missouri,2016-06-30
+John Edward,Schweitzer,Retired,,5850 Stonehorse Ct,100.0,1,100.0,Citizens For Anne Schweitzer,2019-09-25
+John And Karen,Schuh,,Retired,490 Pine Ct,50.0,1,50.0,Boyer For Assessor,2019-09-27
+John And Gail M,Chellis,Retired,,5429 Dantonaire Place,225.0,1,225.0,Tesson Ferry Township Republican Club,2018-03-05
+John,Wynne Jr,Att,Sales,4418 Candleglow,50.0,1,50.0,Citizens For Tom Smith,2014-06-09
+John,Winterscheidt,,Retired,7533 Finestown Pointe,100.0,1,100.0,Bob Burns For State Rep Committee,2015-11-28
+Greg,Brighton,Kb Vapors,Owner And Operator,3021 Kell Ln,50.0,1,50.0,New Approach Missouri,2016-07-20
+John,Telker,Retired,,4704 Langwood Court,100.0,1,100.0,Stop Merger Llc,2019-10-15
+John,Sinclair,John Sinclair Nissan,,4707 Ferdina Ct,1650.0,1,1650.0,Citizens To Elect Mike Kehoe,2020-03-06
+Greg,Clarke,Arsenal Credit Union,Cu Employee,2527 Blackforest Dr,10.0,1,10.0,Credit Union Political Action Committee Of Missouri,2016-10-03
+John,Pluemer,,Retired,3585 Lakeview Heights Dr,100.0,1,100.0,Mike Walter For Mo 95Th,2018-04-27
+Greg And Sue,Pelster,Retired,,4538 Ferbet Estates Dr,50.0,1,50.0,Dan Reuter For State Representative,2016-05-15
+Gregory,Diekemper,,Financial Advisor,2571 Cripple Creek,100.0,1,100.0,Schoedel For Frontenac,2019-03-31
+Hemrick Realty Llc,,,Real Estate Agent,5496 Baumgartner Rd,50.0,1,50.0,Loeffler For Kirkwood City Council,2017-12-18
+John,Keusenkothen,DellEmc,Regional  Sales Director,6822 Kimmswick Ct,200.0,1,200.0,Parson For Missouri,2019-09-16
+John,Jandro,Dierbergs Market,,4941 Lowndes,20.0,1,20.0,Friends Of Mark Paul,2014-05-27
+John,Henry Iii,Cognizant,Supervisor,2832 Owendale Ct,100.0,1,100.0,Friends Of Mulcahy,2019-12-12
+John,Gorse,Retired,,6140 Claymont Dr,50.0,1,50.0,Friends Of Rick Stream,2014-09-30
+John,Garland,Retired,,5152 Kings Park Dr,200.0,1,200.0,Friends Of Gregory Fx Daly,2013-10-22
+John,Fleischmann,Retired,,454,200.0,1,200.0,Friends Of Ej Fleischmann,2016-01-29
+John,Fierst,Retired,,113 River Breeze Way,20.0,1,20.0,Friends Of Rick Stream,2014-09-22
+John,Dockery,City Of St Louis,Attorney,7542 Shadybridge Dr,250.0,1,250.0,Citizens For Mary Pat Carl,2016-02-22
+John,Brancaglione,Pgav,Retired,5677 Kerth Rd,500.0,1,500.0,Lyda Krewson For Mayor,2016-08-31
+John,Altmann,NA,Retired,616 Tanya Court Dr,75.0,1,75.0,Friends Of Larry Arnowitz,2018-10-15
+Harry,Hegger Jr,Retired,Retired,19 Jacqueline Knoll Ct,100.0,1,100.0,Hanaway For Governor Inc,2016-05-17
+Larry,Palmer,Real Living Gateway Real Est,Real Estate Broker,3007 Collington Ct,120.0,1,120.0,Realtors Political Action Comm Mo,2014-01-31
+Laticia,Owens,Fox National Education Assn,,6043 Lemay Ferry Rd,5.55,1,5.55,Mo National Education AssocPac,2015-12-11
+Michael L,Chenot,Retired,Retired Letter Carrier,5520 Southfield Dr Apt K,100.0,1,100.0,Beck For Missouri,2020-03-25
+Matthew,Chellis,Self Emplyeed,Lawyer,5435 Dantonaire Place,20.0,1,20.0,Citizens For Murphy,2018-01-30
+Matt,Chellis,SelfEmployed,Attorney,5435 Dantonaire Place,30.0,1,30.0,Committee To Elect Randy Jotte,2016-09-27
+David,Absheer,Teamsters Local 682,Business Agent,6529 Galewood Court,100.0,1,100.0,Doug Beck For State Representative,2018-02-06
+David,Buss,Retired,Retired,3565 Sorrel Tree Ln,15.0,1,15.0,Hawley For Missouri,2016-09-19
+David,Chambliss,Hautley Cheese,,3007 Provincetown Court,50.0,1,50.0,ODonnellformissouriCom,2018-01-28
+David,Ferrario,Retired,,5824 Mango Dr,50.0,1,50.0,Friends Of Dolan,2014-09-19
+David,Kalinowski,,Retired,2658 Brickmore Ct,50.0,1,50.0,Mike Walter For Mo 95Th,2018-06-07
+David,Piehl,,Administrator,4208 Providence Pointe Drive,150.0,1,150.0,Peters For State Rep,2014-02-07
+Mary,Robben,NA,NA,2850 Cathedral Dr,50.0,1,50.0,Friends Of Christine Ingrassia,2014-03-31
+Mary,Rhomberg,Self,Optometrist,5828 Bristlecone Ct,250.0,1,250.0,Missouri Optometric Association Pac,2020-01-28
+David,Waser,Mehlville Fire Protection District,Firefighter,2789 Firelight Dr,25.0,1,25.0,Citizens For Vicki Lorenz Englund,2016-04-08
+Mary,Mcmahan,Retired,,7 Circle Drive,25.0,1,25.0,Friends Of Ej Fleischmann,2016-02-26
+Mary,Mankus,,Retired,804 Peace Havendr,50.0,1,50.0,Mike Walter For Mo 95Th,2018-06-21
+David A,Mcnutt,Gateway Taxi Management,,7280 Christopher Dr,250.0,1,250.0,Friends Of Gregory Fx Daly,2018-02-03
+David M,Herdlick,Rubin Brown,Cpa,3018 Windsor Point Dr,300.0,1,300.0,Schmitt For Missouri,2016-11-22
+Mary,Holtmann,Retired,,5751 Wickershire Ln,40.0,1,40.0,Dan Reuter For State Representative,2016-05-15
+Mary,Hawker,Self,Attorney,3153 Yaeger Road,200.0,1,200.0,Committee To ReElect Ray Dickhaner,2014-03-24
+Mary,Falcetti,Ot,Mobile Rehab Inc,5350 Yaeger Circle Dr,100.0,1,100.0,Jacque Sample For Missouri,2019-10-25
+Mary,Degenhardt,Degenhardt Heating  Cooling,,3583 Brookstone So Dr,1000.0,1,1000.0,Friends Of Gregory Fx Daly,2018-04-02
+Deb,Yost,Mercy East Region,Regional Vice President,5904 Royal Country Court,300.0,1,300.0,Healthpac,2019-09-18
+Martin  Melanie,Piraino,Requested,Requested,3038 Arrow Point,25.0,1,25.0,Friends Of Dan Guenther,2019-01-28
+Martin,Tribl,,Business Owner,111 Greycliff Manor Drive,1800.0,1,1800.0,Citizens For Steve Stenger,2019-03-22
+Martie,Aboussie,Father DempseyS Charity,,5251 Tuscan Chase Ct,250.0,1,250.0,Jeff Harris For Circuit Judge,2016-06-20
+Martha,Perry,Retired,,2424 Southwind Meadows Ct,200.0,1,200.0,Committee To Elect Randy Jotte,2016-10-10
+Marsha,Haefner,Mo State,Representative,6703 Telegraph Road,1600.0,1,1600.0,Friends Of Rick Stream,2014-08-02
+Marretta,Scwalbe,Retired,,6205 Treeridge Trail,40.0,1,40.0,Citizens For Tom Smith,2014-04-28
+Dave,Townsend,ReMax Results,Realtor,5925 Woodbrook Dr,50.0,1,50.0,Citizens For Vicki Lorenz Englund,2019-12-05
+Maureen,Ramshaw,Mercy Hospital,Lpn,6204 Trueridge Trail,20.0,1,20.0,Doug Beck For State Representative,2016-08-24
+Laticia,Owens Skaggs,Fox National Education Assn,,6043 Lemay Ferry Rd,20.0,1,20.0,Mo National Education AssocPac,2016-11-30
+Meg,Fisher,Cibc,Banker,5363 Southview Hills Ct,200.0,1,200.0,Mantovani For Stl,2017-10-20
+Michael G,Ellebracht,Charter Communications,,5331 Cherryview Ln,120.0,1,120.0,Republican Central Committee Of St Louis County,2020-01-27
+Dan,Hackett,Retired,,5129 Butler Hill Ct,50.0,1,50.0,Dan Reuter For State Representative,2016-07-27
+Dan,Obrien,Retired,,2545 Baltusrol Dr,100.0,1,100.0,Oakville Democratic Organization,2017-11-01
+Dan,Vogler,Anheuser Busch Ecu,Evp,3926 Brookstone South Dr,50.0,1,50.0,Credit Union Political Action Committee Of Missouri,2014-01-31
+Dan And Jane,Hackett,Retired,,5129 Butler Hill Ct,50.0,1,50.0,Dan Reuter For State Representative,2016-04-29
+Michael,Simms,Infiniti,Auto Sales,249 Grimsley Station Rd,150.0,1,150.0,Committee To Elect Jeff Roorda,2018-03-01
+Dan And Sandra,Fowler,American Family,,2992 Spring Water Dr,200.0,1,200.0,Schartner For Mehlville Schools,2016-02-08
+Jaqueline,Julius,Retired,,3549 Lakeview Heights Dr,40.0,1,40.0,Murphy For Sheriff Jim,2016-04-21
+Dan H,Rathgeber,,Dentist,5637 Telegraph Rd,100.0,1,100.0,Mo Dental Pac,2015-12-30
+Daniel,Denton,Regional Supervisoe,Wells Fargo Advisors,7313 Summerview Manor Lane,25.0,1,25.0,St Louis Young Democrats,2018-12-02
+Daniel,Hagerty,Old World Roofing Company,Owner,4651 Forest Valley Drive,100.0,1,100.0,Citizens For Hamacher,2016-06-30
+Michael,ODonnell,Municipal Bond Trader,,7043 Chalkstone Road,45.0,1,45.0,Citizens To Elect Paul Curtman,2017-12-06
+Daniel,Rieman,Concordia Healthcare Solutions,Exec Vp,2940 Woodbridge Estates,200.0,1,200.0,Sokol For Alderman,2020-02-01
+Michael,Minges,Kwame Building Group,,5112 Carriage Trace Dr,1000.0,1,1000.0,Slay For Mayor,2014-05-19
+Michael,Milligan,,Retired,5261 Ozarkglen Drive,130.0,1,130.0,North County Labor Legislative Club,2013-10-05
+Darrell,Climer,Retired,Retired,3021 Cross View Est,200.0,1,200.0,Citizens For Marsha Haefner,2016-06-15
+Dave,Absheer,Teamsters Local 682,Business Rep,6529 Galewood Court,150.0,1,150.0,Doug Beck For State Representative,2016-08-24
+Michael,Gerke,,SelfEmployed,231 Freeman,1000.0,1,1000.0,Committee To Elect Randy Jotte,2016-10-25
+Dave,Bertelsen,AtT,,7009 Evergreen Meadows Ct,60.0,1,60.0,Friends Of Cloria Brown,2013-11-04
+Dave,Mcnutt,Laclede Cab,Owner,7280 Christopher Drive,300.0,1,300.0,Lyda Krewson For Mayor,2019-03-25
+Michael,Curtin,,Unknown,3069 Grassy Valley Dr,50.0,1,50.0,Mike Walter For Mo 95Th,2018-05-07
+Dave,Reuter,Retired,,5904 Oakville Woods Pl,100.0,1,100.0,Dan Reuter For State Representative,2015-11-22
+Micahel,Walter,Ibew Local 1439,,3061 Arrowhead Point Drive,25.0,1,25.0,Berg For Change,2016-09-29
+Melitta,Luca,,Retired,5779 White Pine Dr,60.0,1,60.0,Friends Of Cloria Brown,2016-05-31
+Melissa,Morelan,Great Southern Bank,Teller,5381 Mondavi,50.0,1,50.0,Tori Behlke For Mehlville Schools,2018-03-22
+Marlyn,Brillhart,,Retired,4521 Garon Dr,30.0,1,30.0,Friends Of Cloria Brown,2013-10-26
+Mark A,Daly,,Unknown,130 Pathfinder Dr,500.0,1,500.0,Friends Of Joe Vaccaro Inc,2019-10-17
+Mark,Vitali,Schnucks Markets,,5656 Briarwood,5.0,1,5.0,Berg For Change,2016-04-17
+Debbie,Absheer,Retired,Retired,6579 Galewood Court,100.0,1,100.0,Beck For Missouri,2019-03-07
+Donald,Hanneken,Self Employed,Real Estate,4636 Misty Trail,100.0,1,100.0,Friends Of Ernie Trakas,2019-12-27
+Donald,Moushey,Retired,Retired,2346 Pierwood Drive,40.0,1,40.0,Beck For Missouri,2019-09-26
+Louis,Chiodini Jr,,Retired,7633 River Walk Ct,50.0,1,50.0,Friends Of Cloria Brown,2014-02-13
+Lou And Mary Louise,Holtmann,Retired,,5751 Wickershire Ln,100.0,1,100.0,Committee To Elect Randy Jotte,2016-08-22
+Lou And Mary Lou,Holtmann,Retired,,5751 Wiickershire Lane,50.0,1,50.0,Committee To Elect Randy Jotte,2016-05-12
+Lou And Mary,Holtmann,Retired,,5751 Wickershire Ln,70.0,1,70.0,Dan Reuter For State Representative,2016-04-15
+Donna,Kerckhoff,Retired,Retired,5440 Stonehurst,20.0,1,20.0,Hawley For Missouri,2016-09-28
+Lou,Chiodini,Retired,,7633 River Walk Ct,100.0,1,100.0,0100Th District Republicans,2016-08-08
+Donna,Knittel,Retired,,5307 Patterson,100.0,1,100.0,Oakville Democratic Organization,2019-10-02
+Donna,Otoole,,Attorney,5049 Southridge Park Dr,250.0,1,250.0,Mcculloch For Prosecutor Committee,2014-07-09
+Lisa,Winter,,Account Manager,5610 Paris Court,90.0,1,90.0,Tori Behlke For Mehlville Schools,2018-03-10
+Donna,Reinhardt,Retired,Retired,5543 Rolling Meadows Ct,50.0,1,50.0,Hirth For Judge,2019-08-05
+Lisa,Douglas,Kowelman Engineering,Engineer,5459 Oakville Manor Drive,50.0,1,50.0,Beck For Missouri,2019-10-03
+Donna,Weinsting,Self,Actor,5377 Royalfield Drive,100.0,1,100.0,Communities To Elect Travis Estes,2018-03-09
+Linda,Rankin,Self,Bookkeeper,7061 Stony Ridge Road,25.0,1,25.0,Patrons To Elect Bart Korman,2014-11-03
+Doris,Okeefe,,Retired,31 Kasssebaum Ln Unit 106,25.0,1,25.0,Mike Walter For Mo 95Th,2018-04-28
+Douglas,ONeill,Self,Attorney,4808 Idecker Ridge,50.0,1,50.0,Onder For Missouri,2014-06-09
+Linda,Conrad,Retired,Social Worker,5261 Tuscan Chase Court,100.0,1,100.0,Friends Of Michael G Corcoran,2019-03-01
+Leslie,Fraraccio,Southside Temporaries,Owner,4739 Groveton Way,100.0,1,100.0,H Silverman For Creve Coeur,2017-10-18
+Lawrence,Christopher,Requested,Information Requested,4501 Conleth Dr,25.0,1,25.0,We Are Missouri,2018-01-08
+Ed,Rohde,Retired,,4955 Karington Place Drive,30.0,1,30.0,Citizens For Murphy,2019-11-15
+Ed,Westby,,Retired,6263 Whisper Bend Dr,50.0,1,50.0,Mcdonough For Judge,2019-12-09
+Ed  And  Betty,Dirnbeck,Retired,,5424 Milburn Rd,20.0,1,20.0,Citizens For Vicki Lorenz Englund,2016-10-11
+Laura,Duffin,Msd,Legal Secretary,5255 Cedarstone Ct,10.0,1,10.0,Nicole Galloway For Missouri,2019-10-18
+Ed  Glenna,Hussman,,Retired,7004 Double Eagle Ln,100.0,1,100.0,Friends Of Jim Kasten,2014-07-01
+Louis  And Mary,Holtmann,Retired,,5751 Wickershire Ln,90.0,1,90.0,Dan Reuter For State Representative,2016-06-24
+Louis G,Holtman,Retired,,5751 Wickershire Lane,100.0,1,100.0,Tesson Ferry Township Republican Club,2016-07-10
+Donald,Behrmann,Retired,,5459 Charglow Dr,500.0,1,500.0,Friends Of Rick Stream,2014-10-02
+Dennis,Hermen,Rustique Enterprises,Sales,2731 China Lake Dr,125.0,1,125.0,Mo Manufactured Housing Institute Inc,2019-09-26
+Mark,Potter,City Of Saint Louis Fire Dept,,5969 South Crest Way,21.0,1,21.0,St Louis Firefighters Local No 73 Pac,2013-12-27
+Mark,Milward,Saint Louis County,Geologist,3621 Rustic Meadow Drive,50.0,1,50.0,Citizens For Murphy,2018-02-04
+Deborah,Robert,Homemaker,,5161 Kings Park Dr,500.0,1,500.0,Citizens For Steve Stenger,2018-06-13
+Deborah,Weber,Berkshire Hathaway Homeservices,,5731 Westcliffe,1000.0,1,1000.0,Citizens For Steve Stenger,2014-10-23
+Mark,Fuller,Ssm Health Care,System Dir Of Pastoral Care  Ethics,5490 Aberdour Lane,500.0,1,500.0,Health Education And Learning Political Action Committee Inc Healpac  State,2014-09-08
+Mark,Cummings,Retired,,6255 Whisper Bend,100.0,1,100.0,Friends Of Rick Stream,2014-10-07
+Mark,Chambers,St Louis University,Investigator,100 Woodside Ct,100.0,1,100.0,Citizens For Mary Pat Carl,2015-10-31
+Mark,Bayens,Notre Dame High School,,5007 Lowndes,100.0,1,100.0,Robert Butler Campaign Fund,2014-02-27
+Denise,Garvaglia,,Retired,5632 Valleyside Ln,25.0,1,25.0,Committee To Elect David Gregory,2016-07-26
+Marion,Monteleone,Not Employed,Not Employed,2902 Royal Seasons Dr,250.0,1,250.0,Mark Mantovani For St Louis,2020-02-28
+Dennis,Eckhard,Cass Information Systems,Senior Application Developer,2859 Firelight Drive,30.0,1,30.0,Friends Of Erica Hoffman,2019-12-18
+Marilyn,Brillhart,,Retired,4521 Garon Dr,70.0,1,70.0,Friends Of Cloria Brown,2014-03-27
+Louis G And Mary,Holtmann,Retired,Retired,5751 Wickershire Lane,20.0,1,20.0,Tesson Ferry Township Republican Club,2017-10-30
+Dennis,Kilfoy,NA,Retired Iron Worker,2539 Willow Knoll Dr,100.0,1,100.0,Friends Of Larry Arnowitz,2018-04-18
+Dennis,Labantschnig,Requested,,2951 Finestown Rd,500.0,1,500.0,Citizens To Elect Mike Kehoe,2020-03-31
+Marie,Mccloskey,,Physical Therapist,5980 Southcrest Way,25.0,1,25.0,Citizens To Elect Sue Allen,2014-11-12
+Marian And Larry,Mccord,Chads Coaliition,,3775 Gumtree Ln,100.0,1,100.0,Shew For State Rep,2015-11-26
+Desi,Kirchhofer,Parkway,,2477 Boarkwalk Pl,200.0,1,200.0,Citizens For The Parkway Community,2014-08-23
+Diana,Catalano,,Homemaker,4019 Royal Estates Dr,50.0,1,50.0,Friends Of Cloria Brown,2014-03-08
+Dillon,Nelson,,Carpenter,2533 Mariner Dr,150.0,1,150.0,Carpenters Help In The Political Process Chipp,2018-07-11
+Madonna,Hassler,Retired,Retired,3002 Yaeger Rd,45.0,1,45.0,Hawley For Missouri,2016-09-19
+Dj,Absheer,Teamsters Local 682,Business Agent,6529 Galewood Ct,100.0,1,100.0,Elad Gross For Missouri,2019-04-11
+Lynn,Ziegelmeier,Sugar Creek Capital,Director Of Operations,5990 Pennbrooke Drive,100.0,1,100.0,Beck For Missouri,2019-03-08
+Lynn,Oster,Retired,,343 Bluff View Circle,100.0,1,100.0,Friends Of Ernie Trakas,2019-06-20
+Zina,Hackworth,Homemaker,,5446 Ringer Road,30.0,1,30.0,Committee To Elect Randy Jotte,2016-09-27
